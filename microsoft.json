@@ -1,0 +1,226 @@
+[
+    {
+        "date": "Dec 18, 2014",
+        "role": "Software Development Engineering",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "I visited their booth at my University's career fair and then got an on-campus interview about 1 and a half months later. The on-campus interview was a short 30 minute interview where I got asked questions about linked lists: How would you determine if there is a cycle in a linked list? How would you find the head of the cycle i.e. where the cycle starts? How would you find\u2026\u00a0 the kth element from the end of a linked list? Then about 2 weeks later I got an invitation for interviews on-site and about 3 weeks after that I flew out to Redmond. I had 4 interviews on-site which had behavioral questions and also coding questions like: How would you test a phone (your simple 20 year old phone)? Give test cases for some functions whose implementation is not know i.e. blackbox testing. The people there were great and I really liked their campus.",
+        "questions": [
+            "Given a linked list with three fields: a data field, a next field and a random pointer field (which is a field that points to null or to an element in the linked list) write a function to return a copy of the linked list without destructively modifying the original linked list \u00a0 5 Answers"
+        ]
+    },
+    {
+        "date": "Mar 3, 2017",
+        "role": "Software Development Engineer",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "details": "I was messaged by Microsoft recruiters from Linkedin. They sent me an online assesment which you have to complete in 60 minutes. If you pass that you will be able to go on-site. I interviewed at Microsoft on campus in Redmond for a full day loop of 6 people. Everyone was super friendly and super excited about future of Microsoft under new CEO leadership.",
+        "questions": [
+            "Signed NDA Contract. Algorithmic and Design Architecture Problems. They drill you deep on multi threading and distributed systems. \u00a0 3 Answers"
+        ]
+    },
+    {
+        "date": "Apr 5, 2017",
+        "role": "Software Development Engineer",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "details": "I got referred to a specific team at Microsoft as New Grad hiring was halted for 2016. Talked to a manager on the phone for an hour, and was asked about my resume and did a interview question. Was flown to Seattle 2 weeks later and had an onsite interview with the team at Redmond. It consisted of 5 interviews with coding and culture-fit questions. I was at the Microsoft\u2026\u00a0 Campus from 9AM to 4:30PM. The process was nice, and the interviews were more conversational than say Google onsite interviews. I got a call 2 days later with an offer to join the team.Microsoft enjoyed asking data structure questions with arrays, linked lists, strings, etc. Questions on graphs are said to be rare. Be prepared to answer any design questions, which may be follow up questions to coding questions.",
+        "questions": [
+            "Questions on string traversal, arrays + math were common in my interview. \u00a0 4 Answers"
+        ]
+    },
+    {
+        "date": "Apr 21, 2017",
+        "role": "Software Development Engineer",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "4 on-site interviews over a day with lunch in the middle. Each interviewer explained what they did, what the context of the question was, and the rest of the interview was spent solving the technical question. All four interviewers asked a question from a different domain.",
+        "questions": [
+            "Create an algorithm to reverse a string in-place. \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Apr 17, 2017",
+        "role": "Software Development Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "-",
+        "length": "-",
+        "details": "I was contacted by the recruiter for the SDE position for their hiring event. I was asked to register and will get the Online test in a week. It's been more than a month since than. I tried to reach the recruiter many times but won't respond back. Any other recruiters won't accept my application since I was contacted previously by other recruiter. I don't understand whether they really are\u2026\u00a0 looking for engineers or an applicant just suffers because of all this inside conflicts. It's not believable from such a good company.",
+        "questions": [
+            "Why Microsoft? \u00a0 3 Answers"
+        ]
+    },
+    {
+        "date": "Feb 9, 2017",
+        "role": "Software Development Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "details": "I applied and got an on-campus interview because of a connection with Campus Recruitment.The interview was quick, with a coding question, some resume review, and a question about explaining and making a simple diagram of a previous project. Not a very personal experience, and I likely did not stand out enough as a confident candidate.",
+        "questions": [
+            "Given the head of a linked list, write a program in your language of choice to return the middle node of the list. \u00a0 7 Answers"
+        ]
+    },
+    {
+        "date": "Feb 2, 2017",
+        "role": "Software Development Engineer",
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "details": "Had a referral sent in by a friend and had a phone screen with the manager (mostly questions about the team and my past experience, followed by a quick coding question). Followed by about a month of inactivity and then was brought in to an onsite with 4 people (3 engineers, 1 manager) and a lunch at the cafeteria. Each round involved talking about personal projects and experience, followed by\u2026\u00a0 a technical question and a demo of the team's product in several cases. Surprised by a 5th interviewer pop up at the end who seemed unaware of me and was on his phone and walked off in the middle to get tea. Maybe this was a test to see how I would respond? Was called a couple days later with a negotiable offer, only minor problems with difficulty getting hold of the recruiter.",
+        "questions": [
+            "Given 4 coins of values 1, 5, 10, and 20, find all the combinations of coins that can add up to K. \u00a0 4 Answers",
+            "Create a button menu using Javascript. \u00a0 3 Answers",
+            "Find ways to insert data collection in Javascript events. \u00a0 3 Answers",
+            "Given a linked list, put all the odd elements in lexicographical order list in front of the even elements in lexicographical order in place. \u00a0 4 Answers",
+            "Design chess using OOP. \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Jan 28, 2017",
+        "role": "Software Development Engineer",
+        "gotOffer": "Accepted Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "7+ weeks",
+        "details": "5 algorithmic questions got asked over and over different data structures and algorithm questions. It was difficult compared to modern hiring practices. Totally different once I joined the team. Worse thing is that the lunch interview is still an interview so watch out.",
+        "questions": [
+            "Mutex question \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Jan 30, 2017",
+        "role": "Software Development Engineer",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3+ months",
+        "details": "First round - on campus 45 minutes coding round. Flew to Seattle. Total 4 rounds in person. Three coding rounds and one behavioral + previous work experience + projects + background. All coding rounds are whiteboard coding.",
+        "questions": [
+            "Questions on Tree and Array. A recursive and non-recursive solution for each. \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Jan 15, 2017",
+        "role": "Software Development Engineer",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "-",
+        "details": "I've applied to FTE positions for years on their public site, and never gotten anywhere. However, this time I had an internal recommendation. So I went from applying to in an interview loop within a week. No phone screen or pre-screen of any sort.The full interview process was comprised of 4 one hour interviews, with various Program Managers and Software Engineers. We did white board coding and talked a lot\u2026\u00a0 about my past work. They seemed to really appreciate that I have an UWA in the store already, with good reviews.After the interview, it took about a month to get my offer, however, this was also over the Christmas holiday season. Some delays where due to approvers being on PTO.",
+        "questions": [
+            "I was sked a variety of questions surrounding the more advanced areas of C# and JavaScript. \u00a0 3 Answers"
+        ]
+    },
+    {
+        "date": "Jan 10, 2017",
+        "role": "Software Development Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "5 weeks",
+        "details": "I applied through college career fairs and first interviews on campus. Then I went to Redmond for on-site interview. The whole process took about 5 weeks. On-site interview was 4 round 1-1 interview. Little talks about former project, algorithms based.",
+        "questions": [
+            "How would you test whether a sort function for pairs is correct? \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Jan 3, 2017",
+        "role": "Software Development Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "details": "I was contacted by Microsoft University Recruiting and offered an interview. The interview lasted about 20 minutes, and we worked through a technical problem. Overall it was a good experience. They got back to me within 4 weeks.",
+        "questions": [
+            "Write a function, that, given a paragraph as input, outputs the paragraph with all the words reversed. \u00a0 5 Answers"
+        ]
+    },
+    {
+        "date": "Dec 22, 2016",
+        "role": "Software Development Engineer",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "details": "On-campus interview + on-site interview at RedmondContacted by recruiter for an on-campus interview opportunity. It was a short screening interview with some behavior questions and a coding question, only pseudo code needed.On-site interview consists of 4 rounds with each one 45 mins long. Both behavior and coding questions were asked in each round. It's a great experience.",
+        "questions": [
+            "behavior questions and coding questions \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Dec 16, 2016",
+        "role": "Software Development Engineer",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ months",
+        "details": "All interviews are technical. Started with an on campus interview in September, but there was a hold on submitting candidates to final round that got lifted in December. Flew out to Seattle for a 4 more interviews (spaced out with a 15 min break)",
+        "questions": [
+            "Print out all the nodes in a binary in order without recursion. \u00a0 2 Answers",
+            "Return the longest palindromic substring. \u00a0 2 Answers",
+            "Print nodes in balanced tree level by level and reversing the print order every other level. \u00a0 2 Answers",
+            "Get k largest elements in a list, extremely large list (doesn't fit in memory), write actual test cases. \u00a0 1 Answer",
+            "Determine if a linked list is circular (give upper and lower on runtime bounds given the choices made/optimal ratio) \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Dec 6, 2016",
+        "role": "Software Development Engineer",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3+ months",
+        "details": "I was contacted by a recruiter, and she set up a short phone interview. The recruiter was kind, very prompt and answered any questions I had.I then had an online round where I had to code a problem and answer a technical solution. I had to write down the answers in the link they provided. You can't copy paste anything, and the code needs to be really good (well indented,\u2026\u00a0 good solution, get it as close to compilable as possible, etc) It was a medium level question on leetcode.comI was invited for an onsite inteview. This was a hiring event, and a lot of people were interviewed on the same day. We were all given different cubicles, and the interviewers showed up to our room. The interviews were shorter than Microsoft's standard interviews, which meant that we had to get to the solution faster. (The HR there indirectly told us the same thing, not to waste time, try to answer questions correctly as soon as possible)There were 4 interviews, and they were all taken by manager or Director level people. They were all very kind, and all of them mentioned that they wished they had more time. The questions were not too hard, but they were definitely not easy too. Again, they were all medium level questions (one hard level question ) on leetcode.com. You get a lot of points for asking good questions, making correct use of the hints they give you, and figuring out the bugs in your code. (This if you don't get the solution straight away).I got a call two days later saying that I got the job, and I've accepted the offer.",
+        "questions": [
+            "I've signed an NDA, so I can't really say, but I've mentioned leetcode.com twice, so that should point you in the correct direction. There are a lot of other sites too, like careercup and haccherrank. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Dec 5, 2016",
+        "role": "Software Development Engineer",
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "details": "Interviewed onsite at Seattle. Very easy questions. I got an offer after 1 day . The entire process was quick. But the offer was pretty low and the team was not ready to negotiate. Declined the offer. Please don't waste time if you are a good candidate, there are lot of companies which pay way better than MS.",
+        "questions": [
+            "1. Find max continuous sum in array?2. Simple graph question \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Dec 11, 2016",
+        "role": "Software Development Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "details": "Great process. Passed the first screen interview with a full-time engineer that came to my college campus. I feel like that interview was mostly about personality and fit, more than engineering prowess. The on-site interviews was a round of 4 interviews back-to-back. Enjoyed the experience with every interviewer. The questions were not hard, but not drop dead easy.",
+        "questions": [
+            "Find the common ancestor in a binary tree. \u00a0 4 Answers"
+        ]
+    },
+    {
+        "date": "Dec 11, 2016",
+        "role": "Software Development Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "2+ months",
+        "details": "I interviewed on campus, was asked one easy algorithm question and one object oriented question. And after waited for 2 months, I received an email from recruiter, told me I passed the interview but there was no more interview spots so they can't move me to the next round.",
+        "questions": [
+            "Algorithm about arrays. \u00a0 1 Answer"
+        ]
+    }
+]

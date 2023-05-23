@@ -1,0 +1,2232 @@
+[
+    {
+        "date": "Nov 1, 2011",
+        "role": "Associate",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "details": "Acquired the interview through campus recruiting. Submitted my resume online and was selected for an on -campus first round interview. This was a one-on-one interview with a junior level associate. First half of the interview was strictly behavioral followed by technical finance questions and a few brainteasers.",
+        "questions": [
+            "Walk me through your resume \u00a0 Answer Question",
+            "What's 56*89 \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Oct 24, 2018",
+        "role": "Junior Trader",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "details": "Phone screening with 2 hard questions (one involving graph theory). Then 3 on-site interviews involving probability, algorithms and complex analysis. They stress that they have a very academic culture. The questions were quite difficult and I don't imagine that it has anything to actually do with the job, but rather just how you think.",
+        "questions": [
+            "What is the contour integral of (e^z)/(z^6) over |z| = 1. \u00a0 3 Answers"
+        ]
+    },
+    {
+        "date": "Nov 14, 2016",
+        "role": "Software Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "I was invited to one of their career fairs. I went to the career fair and met with some members of the development and trading teams. I then applied immediately afterward. I didn't hear back for over 2 months until they emailed me saying that they were not going to set up an interview. I was very disappointed - why even ask someone to take the time to attend your\u2026\u00a0 event if you are not even going to treat them decently and at least give them a first round phone interview afterward? I have worked at two of the Big 4 companies and was expecting at least a first round.",
+        "questions": []
+    },
+    {
+        "date": "Mar 18, 2017",
+        "role": "Software Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "details": "Had to go through a phone screen, which was some coding via an online editor. After that there was an onsite at their offices. The offices were really nice. Overall the process was very streamlined and professional. Everyone that I met was very nice and courteous and have been working there for many years. I can see why they have the reputation that they do and no one wants to\u2026\u00a0 leave.",
+        "questions": [
+            "Typical CS type interview questions but with more a focus on math type problems. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jun 12, 2009",
+        "role": "Software Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "details": "Applied over the web. They responded by email and set up a tech interivew over the phone. I was then called down for a full day inerview. They took me out to lunch to a nice restaurant.They advertised for a particular skill but expected broad knowledge. The questioning was vigorous but polite. They asked me to solve puzzles and riddles. Similar to a microsoft interview.According to wiki, they hire only\u2026\u00a0 1 out of 100 those interviewed.",
+        "questions": [
+            "GIven 9 balls all of which weigh the same except for one, what is the minimum of weighings necessary to find the ball weighs more (or less). \u00a0 29 Answers"
+        ]
+    },
+    {
+        "date": "May 9, 2019",
+        "role": "Software Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "45 minute technical phone screen. Leetcode hard: stock price 4. But here's the weird thing: no Coderpad or HackerRank link. You're supposed to just verbally explain your solution over the phone. Can they not afford a Coderpad subscription? Anyways, I solved it and declined moving on because I already had other offers.",
+        "questions": [
+            "Leetcode stock price 4 problem \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 30, 2010",
+        "role": "Operations",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "details": "only brainteaser asked was what is the expected value of a dice roll? Answer is 3.5.otherwise pretty standard walk me through your resume type questions and some brief questions about the firm's culture. Good to read up on that if you can, they are very proud of how chilled out they are.",
+        "questions": [
+            "Expected value of a dice roll? \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "May 20, 2019",
+        "role": "Operations Associate",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ months",
+        "details": "Submitted application in December, spoke with a recruiter on the phone, contacted the following week by the hiring manager, then contacted the following week for in person interview, interviewed from 10am-3pm. Spoke with 8 people; got a tour of the office; ended day speaking with a person from HR. Very very long day.",
+        "questions": [
+            "The day began with a small quiz to check my ability to identify grammatical, numerical, and computational errors. I thoroughly enjoyed all the interviews because they were more like conversations and it seemed like they were all interested in seeing if I was a fit. Some of the most frequent questions: \"tell me about a time when you had to solve a challenging problem?\" \"what are some of your interests?\"\u2026\u00a0 \"tell me about a time when you had to adopt a creative solution to a problem in the workplace?\" The hiring manager asked me questions specific to my industry to see how I think. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Mar 11, 2012",
+        "role": "Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "details": "Hey asked me to discuss how i would design a portfolio of repurchased life insurances. It was truly disgusting because I had to view the death of an individual as a positive thing. Essentially, to develop a well-balanced portfolio we needed to have ensure that there were people dying all of the time.",
+        "questions": [
+            "Tell us about yourself \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Sep 17, 2018",
+        "role": "Analyst",
+        "gotOffer": "Declined Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "details": "I applied online and was invited to a phone interview one month later. Immediately after the interview, I was invited to an in-person interview in NYC. The in-person interview consisted of 3 1:1 interviews with analysts and MDs. After the interview, I was informed of my status in one business day.",
+        "questions": [
+            "Describe to me a challenge you once faced in your research. \u00a0 Answer Question",
+            "How might a new company enter a particular market? \u00a0 Answer Question",
+            "Describe your research process when approaching new or unfamiliar issues. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Sep 24, 2017",
+        "role": "Internship",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "details": "I had two phone interviews, and the second one was very strange. There was no conversation (hardly even a hello), and I was only asked one question. I was thinking out loud and as soon as I said that I was stuck on my train of thought, the interviewer ended the interview after only 15 minutes.",
+        "questions": [
+            "Something about the expected value of some quantity (like x + y) over the unit circle \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Oct 28, 2018",
+        "role": "Internship",
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "details": "Got an email for scheduling a 45 minute phone call. Generally, a good experience. It was an interesting interview. The interviewer asked about my own research and why I made some decisions during my graduate studies.",
+        "questions": [
+            "A simple brainteaser related to probability and statistics. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 27, 2016",
+        "role": "Intern",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "details": "I got an interview for an internship position through on-campus recruiting at my university. It was a very quantitative, one on one interview with mostly brainteaser questions and some math problems. I was kind of unsettled by the interviewer. I didn't get past this first round, but I assume they have fit interviews for the later rounds.",
+        "questions": [
+            "Mostly brainteasers and math problems. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Apr 15, 2016",
+        "role": "Intern",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "details": "There was one 45 minute phone interview and one on-site interview. They paid for all expenses. They asked me to sign a bilateral non-disclosure agreement before the second interview. The interviewers included two senior employees, two newer employees, and two in between. There were plenty of opportunities to ask questions, including a 1-on-1 lunch.",
+        "questions": [
+            "Among other things, they asked for a code sample and technical writing sample \u00a0 1 Answer",
+            "Presenting a technical subject, making a model \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Feb 10, 2016",
+        "role": "Intern",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "details": "Was emailed to participate in a phone interview, was then invited for an on-site interview in NYC, which consisted for 4 back -to-back interviews. Everybody was incredibly friendly and welcoming, and the process moved quickly. HR was easy to get in touch with whenever necessary. It was a great experience, overall.",
+        "questions": [
+            "Mainly resume related questions and questions to gauge how you think/respond under pressure \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Mar 15, 2015",
+        "role": "Intern",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "details": "Very professional and quick. Seems like a great place to intern, but was not selected. Practice on brain teasers and logic questions. They want fast thinkers who are competent as problem solvers.",
+        "questions": [
+            "Logic questions/ brain teasers. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Mar 31, 2018",
+        "role": "Systems Technician",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "Applied online, had a technical phone interview with the person who would be my manager. Typical help desk questions such as hardware and software troubleshooting steps, not super technical but a good gauge into seeing what you know. Went on to headquarters in New York, met with three people an hour each. These interviews get very technical, but also give a good overview of the role and company as a\u2026\u00a0 whole. Then there is a nice lunch where the person from the initial phone interview takes you out. After lunch, I had two more interviews with executives. It is a long and arduous process, but a very good learning experience and really shows you the quality of the firm and the intellect of the people they hire.So why was my overall experience neutral? After all the interviews, the person from HR comes in and starts with \"I spoke with the team and your reviews have generally been positive. It seems that you've got the job.\" So we go through the details of the position like salary, relocation, and such. I left the day feeling pretty confident I would be given an offer. The next week, my references were checked and then there would be a hiring meeting, but the manager was on vacation so it was scheduled for the week after. Three weeks after my final interview, the hiring meeting occurred and I was told I did not get the job. To be clear, this was not a negative experience because I didn't get the job. I get it, there were some questions I could\u2019ve answered better or things I could\u2019ve had more experience in. My issue was being told that I \"got the job\" when it was not guaranteed. I\u2019m not sure what happened in the three weeks between the interview and the meeting, and I don\u2019t think I will ever find out, but it left me with a negative experience of the whole situation.Don\u2019t let this experience discourage you from applying to DE Shaw, as the employees are some of the smartest people you will get to work with. I don\u2019t expect this to happen to many other people, but my advice to DE Shaw is to review what HR can and cannot say after the interview.",
+        "questions": [
+            "Blue screen troubleshooting, blank monitor troubleshooting \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 24, 2016",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "I applied through on-campus recruiting and was given a phone screen. The screen consisted of resume-specific questions with a couple of behaviorals. The interviewer was friendly and left enough time for my questions. Overall, the process was organized and friendly.",
+        "questions": [
+            "Tell me about a time you had structure an ambiguous problem \u00a0 Answer Question",
+            "Tell me about a time you had to present information in an easy to understand way \u00a0 Answer Question",
+            "A few resume-specific questions, nothing particularly unexpected \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 12, 2017",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "details": "Sent in my resume/cover letter and had a phone interview. Conversation lasted about 40 minutes. Mostly resume questions, asked a lot about personal experience and passion. We talked a lot about my research. There's time at the end for questions so I'd recommend having some. Brief case at the end.",
+        "questions": [
+            "Walk me through your resume, tell me about your research and how you contributed \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 12, 2017",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "going through the resume, asking why there is a fit, talk about strength and weakness, also just things outside resume shows. The people didn't show strong interest during the interview so he result is quite obvious.",
+        "questions": [
+            "what is your weakness and why do you think it is a fit \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 31, 2017",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "details": "About a month and a half after applying through my campus recruiting website I received a behavioral phone interview. The interviewer was friendly and responsive to my questions. I was then invited to an on-site final round, where I met with three employees ranging up to Vice President. The interviews were mostly behavioral/about my resume, with a statistical question thrown in for good measure.",
+        "questions": [
+            "Describe your proudest accomplishment. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Feb 8, 2017",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "details": "Applied online and after a month, got notified for a phone interview with a manager. Overall very friendly conversation. Mainly asked about my background, experience, why I'm interested in the firm etc.",
+        "questions": [
+            "Tell me about a time that you had to learn something new, and how did you make sure you learned it? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Dec 26, 2016",
+        "role": "Generalist",
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "I spent the whole day in New York meeting a half dozen people: I sat in a room, and one would leave and another would come in. At some point, I was given an hour to go find lunch and then come back. The conversations were all very pleasant. The employees at Shaw are smart, interesting, cool people you don't mind spending time with. The day flew by.",
+        "questions": [
+            "They asked me about books. I came from teaching English. We talked about Renaissance literature. They also asked a lot of questions designed to see if I could do 9 to 5 after having been an academic. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "May 21, 2010",
+        "role": "Generalist",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "details": "got an email from school visit to the firm for a phone interview, had a good conversation for the phone interview and was flown in for a day of 1-1 interviews. liked the people and culture, also the opportunity presented by the position",
+        "questions": [
+            "no real technical questions \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Oct 18, 2018",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "Applied online, and got a phone call to interview with an employee. There was a phone screen where the focus was on pitching a stock. The interviewer went in-depth into the stock.",
+        "questions": [
+            "Pitch me a stock \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 19, 2018",
+        "role": "Generalist",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "details": "I applied online, the process took one day. Later I was asked to answer to a phone interview that took around 45 minutes. There they asked me about my major, my research interests, and then we went through my resume. For my on sight interview- we had a series of back to back interviews that lasted all morning. A lot more behavioral questions and then some brain teasers. The Monty\u2026\u00a0 Hall problem was present as well as the relative value of a dice roll.",
+        "questions": [
+            "They asked me why I decided to major in history? \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Aug 17, 2018",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "details": "Applied for Generalist Position but was interviewed for the corporate development role.Interviewer forgot scheduled interview, which led to a rushed interview close to an hour later.Resume questions, academic research background questions.",
+        "questions": [
+            "How does a change in oil prices affect S & P 500 Index. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Aug 6, 2018",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 days",
+        "details": "I applied online and received am email requesting a phone interview. The phone interview was general/resume questions. I then was offered an on-site interview in NYC. I had four interviews in the morning and was asked questions about my research, goals, and interest in finance.",
+        "questions": [
+            "What is your biggest accomplishment? Something about life insurance policies. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Aug 10, 2018",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "details": "1 round phone interview and 3 rounds of behavioral on-site, fairly straight forward. They ask you to talk about your resume and and each on-site interview consisted of a brain-teaser at the end.",
+        "questions": [
+            "Why DE Shaw? \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Mar 28, 2018",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 weeks",
+        "details": "Applied for multiple positions online; had a phone interview for the generalist position, which I passed; then was flown out for an in-person interview at their headquarters in New York.",
+        "questions": [
+            "What is the total value of all homes in America? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jul 29, 2009",
+        "role": "Generalist Associate",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "details": "Talked to a random guy doing systems administration, which had nothing to do with my background.",
+        "questions": [
+            "Tell me about yourself \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 26, 2016",
+        "role": "Generalist Associate",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "Trashy interview process. Had 2 different HRs scheduling for my interview. Applied for Corp Development position but was eventually interviewed for Risk! The guy who interviewed me was even 19 min late... Not respectful for the interviewee's time at all. I was quite impressed by how disorganized this place could be. Really. Over-rated! Really. And those HRs who are messing up with candidates' messages should resign from their positions... Stop\u2026\u00a0 destroying people's future anymore plz. I already e-mailed them about the experience and asked if they had messed things up. I will be waiting for their response, if they will reply...",
+        "questions": [
+            "Risk case problem \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Sep 4, 2013",
+        "role": "Summer Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Difficult Interview",
+        "difficulty": "-",
+        "length": "-",
+        "details": "Had a first round phone interview followed by an in-person interview at their New York office",
+        "questions": [
+            "They asked me a St. Petersburg paradox \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Nov 5, 2014",
+        "role": "Finance and Operations",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "I got the interview through the university career fair and online application. It was a phone interview. I talked to a manager in New York office for 30 minutes. Basic resume questions, but more technically. Also I was asked to solve a math problem",
+        "questions": [
+            "what did you find from the excel worksheet results? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 2, 2016",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "details": "I submitted my resume online, then got an email 3-4 weeks later inviting me to a phone interview. They didn't say the interview would be technical, but I was expecting it to be. Interview was poorly conducted; the questions were theoretical and more about running code than actually writing code. Ended the interview on a probability brainteaser, which was fun but I didn't get it. Was not invited for the\u2026\u00a0 second round.My advice: study up on some core concepts about runtime versus compilation, data structures, etc",
+        "questions": [
+            "What are some things that work in C++ that don't work in C? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 16, 2017",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "details": "It began with the interviewer asking about my past project for about 30 minutes. He was really humble and frequently asked me to clarify if he didn't understand anything. Then he asked a few basic algo questions.",
+        "questions": [
+            "How would you find the median of an array? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Apr 3, 2018",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "Phone screen. They don't have collaborative coding environment but just ask coding questions over the phone. The first one is a standard coding question, but the second one is a math-brain teaser question and it is a fairly difficult one that involves dynamic programming. The interviewer was very nice. I thought I did ok during the interview but they did not want to continue the process.",
+        "questions": [
+            "Dropping eggs \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Apr 29, 2019",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "It is an algorithm interview with two questions. But it doesn't require coding and only asks you to describe your algorithm. I think I did it well and answered both questions with ease but they didn't move forward with me.",
+        "questions": [
+            "How to compute the Cartesian product for a list of set?Answer: Easy simulation by dfs. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Sep 24, 2018",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "details": "Recruiter reached out. Hard phone interview with resume dive, 2 technical questions, and questions at the end. A week later notified that they wanted an onsite in NY. Very nice hotel, though they didn't reimburse meals. Had 3 interviews in the morning, more algorithm questions in each. Lunch with an employee, which I don't think was off the books. Finally one more interview with an SVP after lunch.Got a rejection\u2026\u00a0 a few days later, but it wasn't even my recruiter who called or even emailed me. They just sent me a generic email from HR. I thought that was a bit inconsiderate after an onsite.",
+        "questions": [
+            "Find if element is in matrix where all rows and all columns are sorted \u00a0 Answer Question",
+            "Trapping rain water \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "May 16, 2013",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "The interview process is fine. Technical questions. The process is not so friendly, and they don't even provide lunch.",
+        "questions": [
+            "N/A \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Apr 24, 2013",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "details": "D.E. Shaw loves brain teasers. I interviewed there 11 years ago at the same time as interviewing for my current job. Shaw was taking a long time with the interview process until another company started interviewing me and then they sped up the process. I don't believe there was a phone interview, but the first interview took a couple hours with some nice devs who asked primarily brain teasers. This\u2026\u00a0 was followed up by a phone interview with the hiring manager who, despite my recruiter's assurances to the contrary, immediately asked me another brain teaser. While this question was much more interesting and more closely related to a real problem that Shaw might face, I was annoyed.",
+        "questions": [
+            "One brain teaser that I encountered that came from Shaw was the five pirate problem. The five pirates are perfectly logical and need to divide up 100 pieces of gold with the following stipulations:i) There is a pecking order for the pirates from 1-5.ii) The head pirate divies the gold as he sees fit but obviously wants to not be killed and to maximize his share.iii) After this the captain\u2026\u00a0 and the crew votes on whether or not they mutiny and kill the captain. A tie means no one mutinies. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Jun 16, 2013",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "4+ weeks",
+        "details": "I had two phone interviews with DE Shaw, each lasting an hour. Neither of them was very technical at all. I expected to be asked brain teasers given that DE Shaw is known for brain teasers or at least a coding question, but instead I got a lot of behavioral questions or explaining the projects that I've done.",
+        "questions": [
+            "What's the hardest bug that you've ever encountered? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Mar 13, 2010",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "Got 1st round interview at school. The interviewer is very nice and start by a short introduction about DE Shaw and what he does there. Then he asked a simple coding + algorithmic question: implementing a merge iterator in C++. When I finished the coding, he asked a few question about the complexity of the algorithm, how to improve it (using priority queue). Got invitation for the on-site interview in\u2026\u00a0 that evening. Before going, i need to submit a sample code (you can choose any code you wrote, ~300 lines) for them to review.Went to NY for the second round (the hotel and restaurant was really nice). Got 3 technical interviews in the morning which went quite well. Then they decide to schedule another technical interview with a senior VP in the afternoon. He also asked me a few technical questions which are very interesting. E.g,- given a method foo(int a[4]). Write code to call foo with a = [0,0,0,0], [0,0,0,1],[0,0,0,2],[0,0,1,0],....,[2,2,2,2].- Given 2 classes of shapes (Rectangle, Circle) that inherits Shape and 2 classes of printers (BW, Color), that inherits Printer. Also given 4 methods:\u00a0\u00a0--- PrintRecBW(Rectangle s,BW p)\u00a0\u00a0--- PrintRecCol(Rectangle s,Col p)\u00a0\u00a0--- PrintCirBW(Circle s,BW p)\u00a0\u00a0--- PrintCirCol(Circle s,Col p)write a method to Print(Shape s, Printer p) to print out (s,p) using 4 methods above WITHOUT using \"if\". You are allowed to implement addition methods in given classes.I also did pretty well in this one. Finally, they schedule an interview with the manager of the team. He asked me a few general questions about my research and my working experience. Then he asked a few technical question which were very obscure, there are no right or wrong answers, e.g\u00a0\u00a0--- Do we need class Integer in Java? Why?I thought I did ok in this interview (except the Integer question).",
+        "questions": [
+            "why do you want to switch from research to industry? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 31, 2011",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "details": "First-round on-campus interview: Mainly I was asked how I would approach a couple algorithmic problems that the interviewer described as simplifications of stuff he works on. We discussed the solutions at a pretty high level and I didn't have to write much code. The problems were interesting but not killer, involving dynamic programming and some combinatorial and probability calculations, and happened to draw on my strengths. Got an invitation to\u2026\u00a0 NYC the same day.On-site interview day: They put me in a nice hotel a block from their office. I had a long 10am-5pm of ~1hr 1:1 interviews, with a laid-back 1:1 lunch at a restaurant midday. The interviewers included both programmers and quants, with corresponding questioning styles. I was posed challenging questions on software engineering, algorithms, statistics, and quantitative reasoning. No fit/behavioral questions beyond the introductory chit-chat. The people were all really smart, and personalities ranged between pleasant/relaxed and nerdy/quirky (nothing adversarial).I left feeling it went OK, but I did need a lot of help on some of the problems. Got a rejection email 1 week later.",
+        "questions": [
+            "Three of my 150 friends have phone numbers ending in a permutation of the digits 0, 1, 4, and 9. Is this surprising? \u00a0 5 Answers"
+        ]
+    },
+    {
+        "date": "Nov 3, 2010",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "Pretty standard prop trading/software development interview, although D.E. Shaw focuses on Java over C/C++ more than you might expect. Interview included a fun brain-teaser exercise about lights. A relatively good grasp of the standard material won't cut it - be ready to talk about your accomplishments and pack as much impressive material as possible into your 45 minute phone screen.",
+        "questions": [
+            "You are in a room with 100 lights, initially all off. If you first toggle every light, then every second, and so forth up to 100, which lights will be on at the end? \u00a0 10 Answers"
+        ]
+    },
+    {
+        "date": "Mar 4, 2013",
+        "role": "Software Intern",
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "details": "Pretty straightforward, first asked me about the projects I'd worked on in the past and then followed up with a coding question. It seems like the people at the company are very smart, lots of PhDs in math/statistics/cs (including my interviewer who had a CS PhD).",
+        "questions": [
+            "The coding problem was not hard but I was sleep deprived at the time so I wasn't thinking straight. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Sep 21, 2009",
+        "role": "Quant",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 days",
+        "details": "2 phone interviews. no offer.",
+        "questions": [
+            "Math question about estimating trading costs. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Apr 20, 2017",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "45 minute phone screen. Friendly interviewer. Started by asking me about my research and why I wanted to switch to the financial industry. Also asked why I was applying to their specific company. Then transitioned to brain teasers / probability questions. More enjoyable interview compared to others I've had in this field. Sad I didn't move to the next round. A very polite rejection email. Seemed personalized instead of generic.",
+        "questions": [
+            "Questions about research and then probability puzzles. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 12, 2017",
+        "role": "Quantitative Analyst",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "details": "I met the recruiter at the career fair, they scheduled two phone interviews and then one on-site-interview. They were super nice and friendly and you could see how smart every one is. Mostly from top schools (MIT, Stanford, Caltech ...). They all asked about my research first (in details) and then a few questions of their own including brain teasers, statistics, probability, algorithm and programing (They all write in Python\u2026\u00a0 but you can choose any language you want to answer the question). It was mostly probability of course because I was applying for a quant position.Get rdy to answer your research in details and precise, make it interesting and related to their works, I tried to show myself to be very passionate (I truly am passionate actually) about my work and explained both theoretical and practical parts of it.Show confidence, eye contact, encourage them to ask questions and make sure they understand why your work is interesting and how you apply your mathematical skills to solve the problem. Especially emphasize on your statistical skills which is important for a quant.After six interviews and a lunch in a fancy place with a full timer, I went back to hotel and slept for hours! I was super tired! :))Right after the interviews the recruiter told me they are very impressed, she showed me the whole company and explained about the working environment.The day after, they asked me for a coding sample, writing sample and two references, ( I was lucky, my advisor at Caltech supported me very well as the reference, they mentioned that later). Then after a very long background check they asked me for another interview (not technical this time) and they gave me the offer afterwards.",
+        "questions": [
+            "First, questions about my research. (or the work you are proud of the most)Routine behavioral questions,probability and algorithm problems and brain teaser which I don't remember, it was a month ago. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 3, 2017",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "details": "I applied online, received an phone interview request a couple of weeks later. Then the in-house interview. The in-house interview is divided into two sessions: morning 3 and afternoon 2. Only candidates who pass the morning session would have the opportunity to have lunch with one of the employees and the following afternoon session.",
+        "questions": [
+            "hypothesis testing, probability, and regression \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 4, 2017",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "details": "Just asked brain-teaser questions. A lot of small questions. Most of them is about probability. Did not mention the resume. Then asked about why choosing their company and tell me about the work environment.",
+        "questions": [
+            "Conditional probability \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jul 26, 2016",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "details": "There is a 45 min phone interview, and they refuse to do it on Skype. Starting with introducing yourself, and then talk about what interests you most in your course of study. They would ask in detail about stuff on your resume like research programs if you have any, which takes the bulk of the time. No other technical questions.",
+        "questions": [
+            "What specific contribution did you do in your research program? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 17, 2014",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "details": "Phone interview. The interviewed asked about my research projects and a couple brainteasers about fair coin flips required to use law of large numbers and large deviation. The interviewer is very friendly, and seemed to be interested in my research. The brainteasers are standard probability questions.",
+        "questions": [
+            "Flip a fair coin 1000 times. What's the probability that the number of heads come up more than 550 times? What theorem would you use to describe probabilities of rare events as number of coin flips goes to infinity? \u00a0 3 Answers"
+        ]
+    },
+    {
+        "date": "Dec 24, 2014",
+        "role": "Quantitative Analyst",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ months",
+        "details": "Timeline (~2 months):----------------------------Applied in mid October. Phone interview was set-up two weeks later. On-site interview the week after. A lot of background check related activities for over a month. Offer given after all checks complete.Phone interview:------------------------ 45 minutes, single interview- probability/statistics and algorithms questions- very friendly, casual- invited to on-site immediately afterwardsOn-site:----------------------- 5 consecutive one-on-one hour long interviews with quant team (3 in morning, 2 after lunch)- 1 \"off the\u2026\u00a0 record\" lunch with another team member- extremely nice, brilliant people- a lot of questions about my research (be prepared to talk details!)- brainteasers (algorithms, black-scholes, arbitrage-free pricing, statistics, order-of-magnitude estimations)- time breakdown: 50% fit/research, 50% brainteasersFollow-up:--------------------- at the end of on-site, asked to submit via e-mail: references (4 phone contacts), code samples (~500 lines of code that you're particularly proud of), writing samples (e.g. a scientific paper)- a TON of background checks in the month following- got weekly phone-call updates to let me know status of my application and also so I could fill out more forms for the background check (I was truly amazed at the dedication and care they took in keeping me informed, especially since the process took so long!)- they also asked me about details from other offers I had",
+        "questions": [
+            "Which is more: a) the number of stars in our galaxy, or b) the number of grains of sand that will fit in a 5 gallon bucket.How do you estimate both (a) and (b) using reasonable assumptions that a normal lay-person could verify/agree-with? \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Mar 18, 2015",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "Applied online and heard back for a phone screen soon after. After phone interview, heard back within 2-3 days for onsite interviews. There were 5 of them, each about an hour long, including a lunch interview. All interviewers were mostly friendly and helpful, with one notable exception. Expect soft behavioral questions like why finance, and explaining your background.",
+        "questions": [
+            "Brush up on regression, and basic probability and statistics questions \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Mar 30, 2015",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "submit my resume online and get contacted after a month. they scheduled me a phone interview, mainly asking me two questions, one is about programming and the other is about probability, get rejected the day after the phone interview. The programming question is how do you get the largest product of three numbers out of an array. The probability question is what's the probability that you randomly choose three points\u2026\u00a0 on a circle and these three points would be covered by a semi-circle.",
+        "questions": [
+            "The programming question is how do you get the largest product of three numbers out of an array. The probability question is what's the probability that you randomly choose three points on a circle and these three points would be covered by a semi-circle. \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Jan 16, 2018",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "Phone interview was pretty standard, lasting a little over an hour. I talked about my research, answered basic questions such as why finance, and then worked through one short, relatively easy brainteaser.On-site interview was 3 rounds for me. Each interviewer either asked me about research or past work experience, and then went through two or three questions. The questions seemed difficult but doable, although I needed hints on about 2/3\u2026\u00a0 of the questions to solve them.After 3 rounds they told me that I was done for the day. I'm guessing that's not a good sign, but I haven't heard back officially yet.",
+        "questions": [
+            "discrete math questions, probability questions, proofs \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jul 13, 2018",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "The interview was mainly behavorial, and it was pretty relaxing. I was asked questions about my previous research experience and class projects. One algorithm question at the end, which unfortunately I didn't work out smoothly.",
+        "questions": []
+    },
+    {
+        "date": "Nov 9, 2013",
+        "role": "Quantitative Analyst",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ months",
+        "details": "Initial phone interview, then four hour-long onsite interviews, and finally had to submit four references and code and writing samples. Mostly technical focus - algorithms, brain teasers, math, etc. - with a few fit questions thrown in. Everyone seemed very intelligent, and indeed they were; many analysts have a Ph.D. in some technical field (Math, Physics, EE, Econ, etc.).",
+        "questions": []
+    },
+    {
+        "date": "Nov 7, 2013",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "details": "Phone interview went well, but didn't get second round. The guy was very friendly, asked me about my research project -- he had a math PhD and so we talked a lot about some of the things that I'd worked on but he didn't seem to be very impressed. We then switched to doing some basic probability that I struggled with but eventually succeeded.",
+        "questions": [
+            "Consider an infinite set of pairwise independent random variables which are uniformly distributed between 0 and 1. What's the expected number that you need to add to get a number that exceeds 1. \u00a0 6 Answers"
+        ]
+    },
+    {
+        "date": "Oct 31, 2013",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "5 days",
+        "details": "First round phone Interview only. Very Prompt response on whether you advanced. The whole process took a few weeks. From the moment you submit your resume on the website, it took roughly 6-7 business days for them to contact you. Then you schedule a first round a few days out. Apparently the superday is suppose to be 4 hours and consists of many 1 on 1 interviews.",
+        "questions": [
+            "The brainteaser was a variation of the 100 coins and 5 pirates. There were 6 pirates instead. So the premise is that there are 6 pirates and you are the captain. You must divide the coins. If 50% of the people rebel against your allocation, they kill you and the process starts again. What is the optimal allocation? \u00a0 4 Answers"
+        ]
+    },
+    {
+        "date": "Feb 4, 2013",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "1+ week",
+        "details": "Applied directly through their website. Got an interview a week later. The interview is friendly, asked me questions related to my CV. He seemed particularly interested in one of the projects that I did before, and we discussed about it. Then he asked a few brain teaser questions. The interview lasted for 30 mins.",
+        "questions": [
+            "You call randomly a family with two kids, and ask if there is a kid called Tom. The answer is yes. Then what is the probably that the family has two boys. \u00a0 6 Answers"
+        ]
+    },
+    {
+        "date": "Jun 3, 2013",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 days",
+        "details": "one phone interview. Background and CV discussion. Then a probability question.",
+        "questions": [
+            "a conditional probability question, but the problem statement had no information about the prior knowledge. Therefore, although the problem was very simple, it is unsolvable mathematically. Question: you test for cancer in a machine that has the following specification; if you have cancer then it may reports 95%+ve or 5%-ve. The next day you get the results that you are -ve, do you celebrate? \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Apr 30, 2013",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "a week",
+        "details": "I first got a phone interview. Then very promptly I was given an opportunity to new york. They were very nice. There are 7~8 people interviewing me. They asked very hard questions. I guessed they didn't like me much since I didn't have a lunch break. But they are all very friendly.",
+        "questions": []
+    },
+    {
+        "date": "Feb 12, 2012",
+        "role": "Quantitative Analyst",
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "details": "I applied online. Got a phone interview. Followed it up with an onsite interview.",
+        "questions": [
+            "If 3 of my friends have phone numbers ending (last four digits) in some permutation of 0,1,4, and 9 and I have 150 friends, then is that just a chance occurance? \u00a0 7 Answers"
+        ]
+    },
+    {
+        "date": "Oct 27, 2009",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "details": "This is a well known hedge fund in NYC. It has done OK in the sub-prime crisis. I applied to itvia a recruiter who told me that this firm is insanely selective and hires 1 person for every 900 resumesit receives. Anyways, I got an email asking me to fill out an online survey form and a few days laterI got an email saying that they weren't interested.",
+        "questions": [
+            "What is your most significant accomplishment? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Dec 23, 2015",
+        "role": "Quantitative Developer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "The first round interview consisted of a forty-five minute telephone conversation. Spent the first ten minutes discussing my background and experience. The interviewer was friendly and seemed genuinely interested. Asked several questions and talked through the answers. The interviewer gave a hint when I got stuck on one. The process was pretty friendly.",
+        "questions": [
+            "How to find the largest product of 3 numbers in an array. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Jan 28, 2013",
+        "role": "Quantitative Research",
+        "gotOffer": "No Offer",
+        "experience": "Difficult Interview",
+        "difficulty": "-",
+        "length": "a week",
+        "details": "phone interview",
+        "questions": [
+            "Winning percentage of a soccer game in next year \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 30, 2019",
+        "role": "Recruiting Coordinator",
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "details": "Applied online and was immediately invited onsite for an interview in NY. Scheduling the onsite was very smooth and professional. I had many rounds over the course of the day in NY, but all focusing on the same few topics (putting out fires, handling grunt work, career aspirations). I was asked a few questions multiple times. At the end of the day I met with the hiring manager and was\u2026\u00a0 only then informed it was a contract position. Heard back from the company a few days later but had already decided the job was not for me.",
+        "questions": [
+            "How do you handle work emergencies? What are the steps you take to ensure all goals are met when something goes wrong? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 17, 2018",
+        "role": "Recruiting Coordinator",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "details": "I got invited for an in-house interview in their NYC offices and underwent a series of five consecutive interviews with different interviewers. The interviewers covered different aspects of the job and what it requires which was helpful and also asked me in depth for particular skills that the job requires.",
+        "questions": [
+            "How do you prioritize tasks when you have a lot of them?What was a mistake you made during an experience from your resume and what did you learn from it?How do you manage your time to stay on top of your tasks?What tools do you use to manage your time efficiently and to respond to your emails etc?More questions about how I handle feedback, how I communicate with team members,\u2026\u00a0 and how I multi-task formed the majority of the interviews. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jun 18, 2019",
+        "role": "Recruitment Coordinator",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "details": "Applied through a staffing agency and had to fill out an online application, the on-site was scheduled within a week of that online application. Had multiple rounds of 30 minute interviews, spoke with 6 people throughout the day",
+        "questions": [
+            "How do you prioritize tasks? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jul 2, 2019",
+        "role": "Executive Assistant",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "details": "A full half day of several interviews culminating with a department head meeting along with a case study, after an initial phone screen. Met with five separate people including other executive assistants and then two supervisors.",
+        "questions": [
+            "When did you have to say no? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Mar 24, 2009",
+        "role": "Executive Assistant",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 days",
+        "details": "After a pre-screening with the employment agency; having to fill out an information sheet for D.E. Shaw, I was then notified by the agency that a phone interview would be conducted. My preferred contact number was given with e-mailed instructions of time of our call and that the interview should last no more than 30 minutes. After our phone interview, the agency phoned me back a week later to tell\u2026\u00a0 me that it went well, and they would like for me to interview in person at their offices. Since there were several departments seeking an Executive Assistant, my interviews would be 4 back-to-back meetings in 30 minute increments with various employees. That was considered the 2nd day. I was then asked to come back for what would be Round 3 interviews, but based on my initial visit, one of the departments wanted to move forward and make me an offer. I was extremely relieved at this point. HR was in contact with me through the agency of course, and the Background Check began. I had to obtain official copies of my transcript, as well as providing them with previous employers to conduct reference check and date of employment verification. This took about another 2 weeks before an offer was even made.",
+        "questions": [
+            "The position I applied for was to support professionals who did not have an assistant, so the toughest question for me was how I would achieve the optimal working relationship so that I could get work from my principals. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Mar 23, 2018",
+        "role": "Executive Assistant",
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "details": "Had a phone interview with some woman who is an EA and \"EA Supervisor.\" She had no knowledge of what the open role actually was. I had spoken to a recruiter who explained the role completely different. Also, I'm not sure why Human Resources was not doing the interview. This woman lacked the speaking skills of a supervisor and should not be in charge of the hiring process. They offered\u2026\u00a0 me an opportunity to come in for an interview and I declined due to the phone interview experience with the EA supervisor. She was a poor representation of the firm. Had I spoken with someone who had better speaking skills and more knowledge of the firm and the role, I would have been interested in actually doing an in person interview.",
+        "questions": [
+            "Details on my current role \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Jan 19, 2016",
+        "role": "Executive Assistant",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "details": "Pretty straight forward interview process. I submitted my resume through an agency and was informed that D.E. Shaw wanted to interview me. When I got there, I met the Director of Recruitment who took me to a room where I waited for the interviewers to come. I had no idea who I would be meeting with beforehand. I ended up being interviewed by 2 EAs that I would be working\u2026\u00a0 with. They both were very nice and asked general background and resume questions.",
+        "questions": [
+            "General questions about resume and experience. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jul 5, 2015",
+        "role": "Executive Assistant",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "5 days",
+        "details": "13 interviews over one week, beginning with a day of testing that included the type of logic problems you might find on the LSAT. I received calls and/or emails numerous times during the week requesting me to leave my job in the middle of the day to interview with so-and-so who could only see me at that time. Interviewed with a whole cast of characters, from people who performed the\u2026\u00a0 EA role at the firm to the heads of Investor Relations.",
+        "questions": [
+            "At my final interview (#13), one of the two heads of Investor Relations quickly introduced himself and then told me \"I'd like you to estimate the number of gas stations in the United States.\" \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "May 16, 2017",
+        "role": "Executive Assistant",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "details": "Had 4 interviews here for various EA positions. Was recommended for the first 2 then was reached out to by recruiters of DE Shaw for the last two. Recruiters seem very unorganized as they had to me take the same editing test 3 different times - i didn't mind as I feel like I knew the document very well. They also passed me along to a different recruiter who didn't\u2026\u00a0 seem to know anything about me or that I have been there previously. Unfortunately, It has gotten to the point where as much as i would love to work at DE Shaw, I refuse to come back in for an interview. Either they want me or they don't, but I won't waste my time (or PTO at my current job) for a place that doesn't want me. I know I would make a great EA for the company of DE Shaw, but at the end of their day it's their loss.",
+        "questions": [
+            "What is the most difficult part of your current job? // What do you dislike most about your current job? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Aug 12, 2017",
+        "role": "Executive Assistant",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "A phone screening is followed by an in person interview. One meets with others who fill this job title, then if they like you they will pass you onto the next person in the line, then finally to the hiring manager. There was also a proofreading test.",
+        "questions": [
+            "What is a mistake you made and how did you correct it? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Aug 26, 2016",
+        "role": "Executive Assistant",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "5 days",
+        "details": "Met with several other EAs in one day one after another and then was called back to meet with manager who needed support. Received an offer relatively quickly. Everyone was very nice and had a sense of humor.",
+        "questions": [
+            "Tell me about yourself. \u00a0 Answer Question",
+            "How would you measure success? \u00a0 Answer Question",
+            "How did you deal with difficult personalities in the past? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Feb 9, 2017",
+        "role": "Security Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 days",
+        "details": "Phone Call - 30 min ; then multiple interviewers onsite. Most interviewers were very nice. It was very in-depth probing. There's no way to 'study' for this. The HR team was not prepared though. They were nice enough. I knew I answered a question incorrectly on the 3rd interview. That interview was cut short and I was told I was done for the day. Typically it's a full day interview...Oh\u2026\u00a0 well.",
+        "questions": [
+            "What do you do if a user brings you a pc that is acting 'weird'? You suspect malware. \u00a0 1 Answer",
+            "How does Kerberos work? \u00a0 1 Answer",
+            "Public and private key vs symmetric encryption? \u00a0 1 Answer",
+            "Do you know python? Diff btw that and bash shell. \u00a0 1 Answer",
+            "How would you install DLP hardware for email? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 6, 2015",
+        "role": "Corporate Development",
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "5 weeks",
+        "details": "1-2 phone interviews, 1-2 on-sites. I had a very negative phone screen where my nontechnical interviewer kept calling my coding projects \"low hanging fruit\" and saying they seemed very simple to implement. It was extremely condescending, and I decided not to continue with the interview at that point. It's a shame, because I had positive experiences with this company in the past, but I guess the culture might be changing.",
+        "questions": [
+            "Generic behavioral questions, going through resume \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 23, 2017",
+        "role": "Corporate Development Associate",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "interviewed by employees that weren't in the corporate development department. they were all analysts. HR recruiter was incredibly nice. I interviewed at the DE Shaw HQ in NYC, stayed in a nice hotel. All support staff at the firm were amicable. Traders lacked passion and/or any insight into their own desired professional trajectories, which was disconcerting (they're robots basically).",
+        "questions": [
+            "a bunch of probabilistic brain teasers -- a poor, basic means to assessing \"fitness\" to the prospective job at hand. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Aug 9, 2018",
+        "role": "Data Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "The interviewer was professional and nice. Asked questions related to my projects and coding experience. The HR scheduling was also very efficient. It is sad that I did not get an onsite opportunity.",
+        "questions": [
+            "What are the most advanced functions you used in R and Excel? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Aug 14, 2009",
+        "role": "Engineering",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "I had an opportunity to apply for an engineering position through a recruiter. After a brief phone interview, I was invited to an on-site interview at their NYC office. I was interviewed by about 6~7 people, mostly would-be colleagues and managers. They asked questions on my skills with a series of programming questions. They also asked questions on my background equally as well. The interview was interactive and well-organized overall.\u2026\u00a0 They returned to me with their decision in about two weeks. While I did not receive an offer from them, my experience with their recruiting process was very positive.",
+        "questions": [
+            "Write a program that efficiently monitors and processes a high volume of events about the system status generated by various components of a large-scale system. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Dec 9, 2018",
+        "role": "Research Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "details": "Phone screen. Asked about my research. Programming and financial background. Why finance question. A quick and simplistic modelling question. No brain teaser.Just a friendly talk with a smart person, very enjoyful experience. Move on to the next round.",
+        "questions": [
+            "Build a model to predict next year Red Socks' number of winnings based on last year data. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jul 24, 2018",
+        "role": "Research Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "details": "Phone interview with an analyst followed by on-site in New York City office with analysts and VP. Very quick turn around. Took about 2 weeks. On-site interview took a little over 3 hours",
+        "questions": [
+            "A situation in which you analyzed data \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 13, 2016",
+        "role": "Research Associate",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "details": "It was a telephone interview. It was clear that the interviewer was not experienced but that's okay since I'm a fresh graduate myself. i answered the \"Tell me about yourself..\" type questions with the thought he had my resume in front of him. In the last five minutes I discovered he had never seen my resume. Don't make the assumption they are prepared. Towards the end he asked the 99\u2026\u00a0 lions and the sheep brainteaser. I told him one lion would eat the sheep but upon the other lions seeing what happened there would then be a status quo. This is the technical answer. My error was saying that if you had only three lions and one ate the sheep thus becoming the sheep the remaining two could apply game theory and work together...after all, half a sheep is better than none. This was a mistake. He did not want any out of the box answers. This is interesting since the group has a reputation for innovation.",
+        "questions": [
+            "Tell me about yourself, why did you leave last company, and 99 sheep/lion brainteaser. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Apr 2, 2019",
+        "role": "Rotational Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "details": "It first started with a 30 minute phone interview, then after I heard back, I scheduled an in-house interview that lasted about 3-4 hours. It included a case study, some brain teasers, some behavioral questions.",
+        "questions": [
+            "In-house case study \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 7, 2011",
+        "role": "Rotational Associate",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "details": "Talked about a case involving buying life insurance plans back from people",
+        "questions": [
+            "How would you go about buying back life insurance plans from people for profit? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Aug 27, 2018",
+        "role": "Rotational Development Associate",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "details": "Following an online application, there was an initial phone interview followed by multiple in person interviews at their offices in New York City, NY. The initial interview was 30 minutes long, and the in person interviews can very in length, but they usually take up the entire day collectively.",
+        "questions": [
+            "How would you increase the profit (without increasing the revenue of your family business. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Nov 3, 2016",
+        "role": "Proprietary Trader",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "6 days",
+        "details": "Applied through college or university. The phone interview was extremely intense, with many probability questions and brainteasers. They expect you to solve the problems very quickly, which can put you in pressure. I never got beyond the phone interview, so I can't really tell what to expect. Bayes is your friend. If you aren't the kind of person who solves puzzles and mental games fairly often, you might have a\u2026\u00a0 difficult time. I don't think there is any way to ace it unless you have the natural talent.",
+        "questions": [
+            "One complicated probability question \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 16, 2017",
+        "role": "Trader",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 days",
+        "details": "Got on the phone for a 30 minute interview, the interviewer was very nice but was an hour late due to her meetings. Mostly asked about examples of quantitative/analytical experiences in my resume. Also asked why I wanted to work at D.E. Shaw, and shared his reasons for choosing to work there. Overall cordial and professional.",
+        "questions": [
+            "1. Tell me about a quantitative class you took \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Sep 1, 2017",
+        "role": "Trader",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "I applied through their website, had a first round interview via phone, and ultimately a super day at their office in midtown. The people were nice but very quantitatively-minded and very insistent on technical finance knowledge.",
+        "questions": [
+            "Technical finance questions :/ \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 12, 2015",
+        "role": "Trader",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "details": "I applied through website and school career website. The first round was a 30 minute phone call. The second and final round was on-site in NYC. The second and final round was on-site in NYC.",
+        "questions": [
+            "first round - behavioral and technical. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Mar 30, 2014",
+        "role": "Trader",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4 weeks",
+        "details": "I got a phone interview about two weeks after the application deadline. This interview lasted about half an hour. The interviewer was nice and gave me a call on time. Most questions focused on my past experience. He also asked a few question about the international market. They wanted candidates with diverse background.",
+        "questions": [
+            "What's the most difficult thing if you are U.S president? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jul 8, 2011",
+        "role": "Trader",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "details": "Connected with company through campus recruiting. Interviewed on campus. Was very unimpressed with interviewer. Interview questions were very qualitative. Expected more quantitative testing. Did not enjoy process. Did not pursue position further.",
+        "questions": [
+            "Talk about the current state of the real estate market in China. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Jun 10, 2014",
+        "role": "Trader",
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "details": "I applied through their website and got a phone interview with one of their traders. Most of the questions were behavioral, except one brain teaser. He was nice, but I did not do well and got rejected.",
+        "questions": [
+            "Estimate the number of pieces of pizza consumed in the U.S. every day. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jul 29, 2014",
+        "role": "Trader",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "details": "First round is a 30 minute phone interview. 5 minutes behavioral, 20 resume overview, 5 minutes technical question. technical question was probability type question. Resume questions are straight forward but you need to know very well why your skill can drive value for them.",
+        "questions": [
+            "Why do anomalies still exist in the market? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 11, 2017",
+        "role": "Trading",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "details": "Phone call: asked about my resume/other fit questions, asked for my thoughts on an \"ideal business model.\" Followed up later for offer to interview in NY officeIn-person: Met with three people, each of whom asked me some combination of brainteasers and fit questions",
+        "questions": [
+            "There are five knights who all have different ages. They sit at a round table. What are the odds that they happen to sit in an order of ascending age? \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Nov 28, 2014",
+        "role": "Trading",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "5 days",
+        "details": "I had a first round interview on the phone.Come from a non-US school in my penultimate year of study. Applied online and received a call for an interview a few days later.",
+        "questions": [
+            "You know that I have 2 children and 1 boy among them at least. What is the probability that my other child is a girl? \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Nov 4, 2016",
+        "role": "Systems Administrator",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "details": "Initial phone screen followed by an onsite with both single and group interviews. The interviews were for the most part non-technical. Although they claimed to be looking for people with general skills, from the questions they asked, they seemed more interested in specific areas of knowledge. It was clear from the first initial interview at the onsite I did not have what they were looking for, so it is unclear\u2026\u00a0 why I was even asked to come.",
+        "questions": [
+            "A user is unable to install this software. How would you go about diagnosing the problem? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Feb 4, 2019",
+        "role": "Systems Administrator",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 weeks",
+        "details": "The process started with a written 'short answer quiz,' followed by a phone screen. Finally an onsite that lasted the whole day in their NY office (+ lunch with the manager). The interviews were pretty standard with some being more difficult than the others. Everyone was very nice and sincere throughout the process. I could see why they have such a high standard for hiring - you'll have the feeling\u2026\u00a0 that the level of talent in a room is astronomical. I departed with a goodie bag and a very positive experience. Bummed to not get the offer but they were nice enough to give a call and let me know.",
+        "questions": [
+            "Signed an NDA \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Mar 22, 2019",
+        "role": "Systems Administrator",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ weeks",
+        "details": "The entire process took place over a couple of weeks. I applied through a recruiter and they sent me a brief quiz to complete. That was followed by a phone screen a few days later, which lasted about an hour. Then I was brought onsite for several rounds of interviews. It\u2019s an all day affair, as long as they feel the interviews are going well. Managers demeanor seemed unprofessional, very\u2026\u00a0 abrupt answers to questions. Almost seemed like she was bothered to be there. Could\u2019ve sent me home early and saved us both the trouble.",
+        "questions": [
+            "Signed NDA but interviews ranged from typical to difficult. Not on you can wing it for. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 12, 2015",
+        "role": "Tax Analyst",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "details": "Six persons in a roll, each for 20-30 mins. All interviewers are from the Tax Department, which are from Senior to SVP levels. The interview went on for 2 hours and each person asks different questions.",
+        "questions": [
+            "Why do you choose DESCO? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Feb 25, 2013",
+        "role": "Finance and Operations Associate",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "Got the interview through campus recruiting. Mainly focused on my resume but two parts that stood out included correcting a profit and loss spreadsheet that had a few visual and technical mistakes as well as the interviewer asked me to \"teach him something he probably did not know about.\"",
+        "questions": [
+            "\"Teach him something I probably do not know about.\" \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 14, 2014",
+        "role": "Finance and Operations Associate",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "On-campus Hiring. I have an on-campus interview. The interviewer is a really nice guy. He just went through my resume, and ask some behavior questions. Nothing is special. Just prepare your stories and prepare for behavior questions. I believe the most important thing is whether your major matches the position you applied.",
+        "questions": []
+    },
+    {
+        "date": "Nov 22, 2014",
+        "role": "Finance and Operations Associate",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "details": "Applied through school career website, the process took about a week. I got the first round interview in school. The guy was very nice, he didn't mention anything about the interview in the first 5 mins.",
+        "questions": [
+            "what is 57*89?Pitch me a stock.If a company's P/E Ratio is 10 compare with the industry avg of 12, what do you think the reason is? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Feb 22, 2016",
+        "role": "Financial Analyst/Trader",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "-",
+        "length": "4 days",
+        "details": "The interview process takes about half an hour before the Asian market opening. At the beginning, we chatted over the market turmoil and then I was asked why China's market is more connected to the global market. Afterwards, I started to go over the resume. But later I found that this position needs a fundamental trader, but I'm more on the quantitative side. So I failed.",
+        "questions": [
+            "Why is China's market more connected to the global market? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Feb 5, 2018",
+        "role": "Quantitative Researcher",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "details": "The whole process was pleasant. I have a connection in the firm forwarded my resume and got the first round interview with a quant. The quant asked in great detail about my research and then a brain teaser about coin flipping. I answered the question correctly and was invited to the onsite in their headquarter in NYC.I interviewed with three quants in the morning and didn't advance to the afternoon\u2026\u00a0 session. The lunch is in a fancy restaurant with decent food. Still too naive for the interviews at that time. Being asked a lot about my research projects. The technical problems are really open and practical. They care a lot about how you think of the problems. I personally enjoy the problem solving and also learned a lot during the interview.",
+        "questions": [
+            "How many flips are needed to detect a 51% biased coin. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Mar 22, 2010",
+        "role": "FinOp Intern",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "details": "Applied online and got a phone interview about three weeks later. My interviewer was a member of the FinOp division. she made it clear that they were only interested in people with accounting experiences. since I'm an econ major, i was confused why they would even spend the time interviewing me. interview questions were completely behavioral ones such as \"go through your resume\", \"why d.e.shaw\" etc.",
+        "questions": [
+            "why d.e. shaw \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Apr 26, 2017",
+        "role": "Facilities Assistant",
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "details": "The interview process was long but satisfying. It took 3 months to get from the first to the 2nd round of interviews. Everyone that I interviewed with was great and genuinely wanted to connect with me on a personal level.After the interview process things went downhill. I was offered the position and accepted but the offer was taken back due to a minor detail missing from my resume that shouldn't\u2026\u00a0 not have affected my standing with them. The lack of communication between departments during the hiring process was awful and was asked for the same information several times by different people.I am sure this is a GREAT organization and wouldn't hesitate to go through it all again. I just believe at some point they are too strict for their own good during their selection process and in turn they let great employees slip through their fingers.",
+        "questions": [
+            "Where do you see yourself in 5 years? \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Dec 29, 2010",
+        "role": "Summer Operations Position",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1+ week",
+        "details": "Got a call from a nice lady that works in the back office. It was basically just a resume walk-through, nothing too intense at all. All behavioral.",
+        "questions": [
+            "Why do you want to work in ops? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "May 20, 2011",
+        "role": "Family Office",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "I was interviewed for a position in the family office of a Shaw family member at their NYC office. After signing an NDA I was brought to another floor and interviewed by two very professional individuals that already worked for the family office. The questions ranged from very general to very specific, but were comprised mostly of topics concerning my professional background and lifestyle. Overall, the entire office was very\u2026\u00a0 polite and professional and I left with a feeling that working with them would be very pleasant.",
+        "questions": [
+            "How would you handle this situation _____? \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Feb 21, 2012",
+        "role": "Finance and Operations Intern",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "details": "A representative came to my college campus and interviewed me - standard fit interview in which we reviewed my education and experience. I was invited to the NY office for a full day of interviews in what would be the final round. However, they had an incorrect copy of my resume and did not even notice until after 2 out of the 4 interviews. The final day experience was not\u2026\u00a0 a positive one.",
+        "questions": [
+            "Under several different circumstances, where on a beach would you set up your widget shop, assuming there is only one other shop on the beach. Potential situations: your competition is set up directly in the center, You must choose your location first, etc... \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Apr 17, 2012",
+        "role": "Rotational Associate Program",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "details": "Mainly behavioral questions and questions discussing past accomplishments and issues tangential to items on CV. Also discussed possible investment ideas, other job offers, and did an investment case study of sorts.",
+        "questions": [
+            "Explain how you have dealt with an unproductive boss. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 27, 2014",
+        "role": "Rotational Associate Program",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "I replied to a posting on the campus jobs board. The recruiter referred me to the Rotational Associates Position. The first round was a half-hour phone interview followed by three second-round interviews onsite. The people I spoke with were generally very smart with non-traditional backgrounds for finance. However, the process is very competitive and they seem to interview many people relative to the number of openings.",
+        "questions": [
+            "I got the life insurance scenario mentioned by other candidates. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Apr 5, 2019",
+        "role": "Rotational Associate Program",
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4 weeks",
+        "details": "I was approached by their HR recruiter through LinkedIn to apply to this program. We had an initial 30 min phone call to explain about the firm. I was asked to apply through their website and after a few weeks I had a phone interview (at that stage I already had other offers). The 30 phone interview which was mainly fit questions.",
+        "questions": [
+            "What do you know about the firm? why do you want to transition to finance? questions about my research \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Sep 10, 2018",
+        "role": "Proprietary Trading",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "A couple phone screens, then an on-site, which consisted of only one-on-one interviews. Resume/behavioral questions mixed in with a couple of brain teasers. Worked on a case and explained reasoning.",
+        "questions": [
+            "Why trading? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 16, 2015",
+        "role": "Proprietary Trading",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "details": "30min phone interview on Friday. Heard back for an on-site in New York the next Monday. Did the on-site the week after. Have 4 rounds with 2 teams of people .Each interview one-on-one. Enjoyed the process.",
+        "questions": [
+            "Basic personality questions and market view questions \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Feb 23, 2013",
+        "role": "Junior Proprietary Trading Intern",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "details": "Sent resume online and heard from HR the next day. Schedule phone interview on Friday and call arrived on time. The interviewee is nice and professional. Asked a few basic questions on the resume, and then quizzed me on the market. As I does not follow the market and know next to nothing about finance, i think my interview was pretty much over by that point. Then a brain teaser\u2026\u00a0 which is, in my opinion, poorly phrased and impossible to appear on a 1st round phone interview. By that point I am pretty devastated - this was my first phone interview and I did not give any right answer so far - so I made another mistake: When I was offered to ask some questions in the end, I said I have no questions to ask. End of story.",
+        "questions": [
+            "There are 100 prisoners on an island. Starring from Day 1, a guard will play the following game with them. On the n th day, a random prisoner will be brought into a room, which contains a switch that is either on or off. After he left the room, the guard will then ask the prisoner if everybody has been to the room. He can answer either \"Yes\" or \"I\u2026\u00a0 dun know\". If he answered \"yes\" and he is correct, everyone is free' otherwise everyone dies. If he answered \"I dun know\", the game continues: a prisoner will be choosen at random on (n+1)-th day and so on.Now these 100 prisoners are free to meet and discuss a strategy on the night of 0th day. Afterwards they will not be able to see anyone else at all. No other communcation is possible except the binary switch in the room.Is there a sure-fire strategy to free all of them? \u00a0 5 Answers"
+        ]
+    },
+    {
+        "date": "Jun 1, 2019",
+        "role": "Recruiting Sourcer",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "-",
+        "length": "2 weeks",
+        "details": "The office was what I expected, very nice. The interview process was not what I expected but thankfully it was only 2 weeks from my first call with the recruiter to hearing the verdict.Based on the interviewer's body language and the lack of information offered up about the role itself I am skeptical about how DE Shaw has transformed over time.The interviewer had their foot up on the chair and\u2026\u00a0 was resting their head on their hand. I also didn't get a sense that the recruiting team had passion for technology which was something that I was personally hoping for.They could improve the process by giving candidates an idea of how long the interview will be and who they will meet with. I took the day off, and it was only 30 minutes.",
+        "questions": [
+            "Describe a challenging role you've filled and what you learned from the experience. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "May 20, 2018",
+        "role": "Human Capital Business Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "5 weeks",
+        "details": "A couple of rounds and the process took over a month. Interviewers were kind and cordial. I did attend an inperson interview but did not get an offer . wish I had receivedsome specific feedback though",
+        "questions": [
+            "First round was a quick phone interview which was mostly behavioral.Second round was trying to evaluate my previous experience and some process related \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 9, 2014",
+        "role": "Software Engineering and Quantitative Research",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "details": "I applied online and received an interview offer pretty early. They asked for a phone interview, and asked to have pencil and paper ready. There was no coding during the interview. First, we discussed my resume. The interviewer said he liked my resume. We then discussed one of the projects from my resume. I thought the interview was going really well. He then gave me two brain teasers to think\u2026\u00a0 about, and then we discussed my reasoning. The teasers are below.",
+        "questions": [
+            "The first question he gave me was not hard.1. You call to someone's house and asked if they have two children. The answer happens to be yes. Then you ask if one of their children is a boy. The answer happens to be yes again. What's the probability that the second child is a boy?2. (Much harder)You call to someone's house and asked if they have two children. The answer\u2026\u00a0 happens to be yes. Then you ask if one of their children's name a William. The answer happens to be yes again.(We assume William is a boy's name, and that it's possible that both children are Williams) What's the probability that the second child is a boy? \u00a0 12 Answers"
+        ]
+    },
+    {
+        "date": "Jan 17, 2014",
+        "role": "Quantitative Analyst/Software Developer Intern",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ months",
+        "details": "I had one phone interview, which had a few math/CS questions. I was then invited onsite, where there were 5 rounds of interviews, as well as an off-the-record lunch discussion. There were lots of probability and algorithmic questions. Knowledge of finance seemed to be a plus but not necessary. Everyone was very nice and helpful.",
+        "questions": [
+            "The most unexpected questions was how would you color a 3-colorable graph. I was initially thinking that you had to do something efficient, which isn't possible, but he just wanted some way of doing it. \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Jun 25, 2019",
+        "role": "Analyst Interview",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "At first I was asked to complete the application process online. A week later they asked for an expository, non technical writing sample, less than ten pages of my own work.",
+        "questions": [
+            "Write a essay, then interview process will proceed \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "May 28, 2015",
+        "role": "Investor Relations Business Affairs Associate",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "They reached out to me to ask if I wanted to interview for the position. There was a phone interview, then most-of-a-day of in-house interviews. Most went well; I interviewed with four people. One (the lead guy) came across as uninterested and arrogant. The others I liked.They never bothered to follow up, in any form, to tell me that I didn't get the job. I walked out of the in-house\u2026\u00a0 interviews thinking I probably hadn't, but it's so discourteous not to bother to take 25 seconds to write a rejection email. Especially as I took one of my very few vacation days to come in for the in-house interviews. Makes it hard to regret not getting an offer.",
+        "questions": [
+            "Nothing unexpected. A few behavioral questions, a few \"why this job\" questions. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Sep 29, 2017",
+        "role": "Software Engineer(Internship)",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "details": "Dropped resume off at career fair and campus interview portal. Got a first-round interview soon after, pretty chill, some behavioral but mostly pretty standard technical (algo) questions. Still waiting to hear back.",
+        "questions": [
+            "Find median of an unsorted list \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Sep 15, 2017",
+        "role": "Software Engineer(Internship)",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "Phone interview with a developer who had been at the company for 2 years. I had been prescreened during a networking event, so that's likely why I skipped the initial behavioral interview. I did one technical interview over the phone.",
+        "questions": [
+            "Given an array n integers and an integer x, provide an algorithm that determines if a pair of integers in the array sum to x. \u00a0 1 Answer",
+            "What are the differences between TCP and UDP? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Mar 3, 2016",
+        "role": "Investing Role",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 weeks",
+        "details": "Process was nicer than I expected. It is a very relaxed firm. I met a junior guy first, passed that, then met a senior lead and two others who were in a related group for the 'fit' type questions. Enjoyed the discussions. got some brainteasers but they helped me through them. asked back for next round .",
+        "questions": [
+            "some probability questions, the rest was pure fit and technical \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Dec 1, 2018",
+        "role": "Fundamental Research Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "8 weeks",
+        "details": "Initial 30 min phone call with a really aggressive person. At the end, he told me that he was \u201cinterested\u201d and HR would be following up. After two weeks, I still hadn\u2019t heard anything so I reached out to HR contact directly and she apologized for \u201clarge volume\u201d and invited me in house. However, if I never reached out to her, I\u2019m not sure they would have ever gotten around\u2026\u00a0 to it, which isn\u2019t very professional. In house interview was fine, nothing unexpected although some of the interview questions felt like an interrogation. The interviewers were not extremely prepared - the one who gave me the case hadn\u2019t even read the case herself so it was awkward",
+        "questions": [
+            "Tell me about yourself \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "May 21, 2017",
+        "role": "Chief Operating Officer Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "Recruiters quickly responded to my application with invitation to interview. Terse interviewer who was not very friendly. He asked standard questions + DEShaw specific questions. The interview was very short.",
+        "questions": [
+            "What is your favorite company? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 25, 2017",
+        "role": "Financial Reporting Senior Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "details": "I applied through a recuiter. Two weeks later, got interview invite to come to the NY office and met two people within the division. They are both fun to talk to and overall it\u2019s an easy interview. One week later, my recruiter called me up saying they are not going to extend me an offer because my background is not fit with what they are looking for. I was a\u2026\u00a0 little surprised because I thought the conversation flew very well. The only reason I can think of is probably I worked in banking with little experience in hedge funds. But anyways, I like the firm and it was a pity that I couldn\u2019t continue.",
+        "questions": [
+            "What are your strengths and weaknesses? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 9, 2017",
+        "role": "Fundamental Research",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "First round interview on campus. Have different background from the interviewer, so he asked me many brain teasers, like stats probability type of questions and also chess stratgies. For the next round was in office.",
+        "questions": [
+            "What's the best strategy when you play chess (several situations) \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Aug 20, 2018",
+        "role": "Fundamental Research",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "details": "Relatively long process lasting aproximately a month. Applied online, was offered a first-round after two weeks. Was immediately invited to a Superday at the NYC office after finishing my first-round. Very nice people and responsive HR. Looking for very specific type of people that make their fit. No finance background required, although statistical thinking is necessary.",
+        "questions": [
+            "Tell me about a time you made a mistake. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Jul 2, 2018",
+        "role": "Human Capital Data Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "details": "I applied for the position through the company website and received an email from HR a couple weeks after. I interviewed with the VP and head of Human Capital Analytics where he asked me about my previous experience of working with data and really went in depth about my model and result. He was very attentive and professional",
+        "questions": [
+            "Tell me about a time you had to work with data to help a customer \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jun 8, 2019",
+        "role": "SummerQuantitative Research",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "details": "Phone interview followed by one day on-site, talked to 5-6 people. People were friendly. Very academic. Brain teaser, probability questions. Some generic \"here's a data set what do you do\" hypotheticals.",
+        "questions": [
+            "Limiting distribution of how many elements get chosen when choosing each element independently from a set of n elements. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jul 10, 2019",
+        "role": "DESCOvery Associate",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "details": "The interview process was tedious and exceptionally unprofessional. My interviewer had to cancel multiple times on the day of without advance notification. The interview itself was basically a non-interview. It seems like D.E. Shaw just wanted to do market research on interesting startups in sectors that it's interested in rather than hire a person. The whole interview was 20 minutes of probing questions about my last startup which I answered\u2026\u00a0 vaguely on purpose. The whole thing seems counterproductive as I would have been more than happy to chat about my startup and about what I have learned in any other context.",
+        "questions": [
+            "Tell me about your startup and what is appealing about your startup vs. competitors \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 9, 2019",
+        "role": "Intern",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "Have two rounds of phone interviews, each round goes about 30 minutes. Talked to people from different teams, generally quite good experience, feel like talking to really smart and talented people.",
+        "questions": [
+            "Tell me about yourself \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 27, 2019",
+        "role": "Generalist",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 weeks",
+        "details": "I submitted my application on their online site and received an email from an HR recruiter requesting a phone screen after a week. I then had a one-hour phone screen, followed by a day-long onsite interview. The whole process took about a month for me, from submitting my application to receiving my offer.",
+        "questions": [
+            "Tell me about your research experience. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Sep 5, 2019",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "Submitted resume online, got an email a week later to schedule a phone interview. Phone interview lasted about 30 minutes. Pretty straightforward, typical questions; then interviewer briefly described their background, the role, and gave me an opportunity to ask some questions.",
+        "questions": [
+            "Walk me through your resume \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Aug 28, 2019",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "Lots of questions about past work experience, projects for classes, a few math/conceptual problems (these were really hard). A few \"case\" type questions that weren't super difficult, so wouldn't worry too much about this.",
+        "questions": [
+            "Q: What teams are you most interested in? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 14, 2019",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "5 weeks",
+        "details": "First round is phone interview, followed by superday. First-round was with someone from their IT department which is one of the departments you might be placed to. Interviewer seemed extremely disinterested from the start and looked like he was just going through a list of questions - he definitely wanted to be doing his normal job over intern interviews so not surprised at all about the outcome.",
+        "questions": [
+            "What is the approximate weight of all animals in the world? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 3, 2019",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "The first round was at a college fair. The interviewer was funny, chill and cool. She was in a hoodie even. But I did not hear back till 6month later. They said they didn't have much to offer last time, but would like me to interview again for the upcoming year. I had a phone interview but this time is really awkward. The other side of the phone did not\u2026\u00a0 respond at all and I don't know if she's still listening. It's like talking to myself for 30 minutes. I know I won't be able to continue further in this job right after hanging up the phone.",
+        "questions": [
+            "Walk me through your resume.Some questions on my resume. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Dec 10, 2019",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3+ months",
+        "details": "After submitting an application online, I had a phone screening. We spoke for about an hour on various topics. This included, previous experience, my knowledge of the company, long-term goals, etc.",
+        "questions": [
+            "Q: What's one belief you have that your peers do not share? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Dec 6, 2019",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "details": "I applied online through the company's website.Then I was contacted to schedule a phone interview after two weeks. The interview was scheduled two weeks from the date contacted. The interview consisted of behavioral and technical questions.",
+        "questions": [
+            "Why D. E. Shaw? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 14, 2014",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "a week",
+        "details": "I was asked a bit about my research, and then the following 3 questions:(1) Let A be an n by n matrix, with all off-diagonal entries equal to a, and all diagonal entries equal to 1. For which value of a, is this matrix positive definite?(2) We start with a number n, and let S = 0. At the first stepWhat number do we end up with?(3) Suppose we have\u2026\u00a0 a fair coin, and we toss it a million times. Let X be the number of heads; estimate the probability that X > 502,000.",
+        "questions": [
+            "(4) You are given two Gaussian variables: X_1 and X_2 with means m_1, m_2 and variance v_1, v_2.Suppose you know the sum X_1 + X_2 is equal to n. What is the expected value of X_2? \u00a0 14 Answers"
+        ]
+    },
+    {
+        "date": "Sep 30, 2019",
+        "role": "Recruiting Coordinator",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "details": "I applied online and was contacted a few days after with a request to come into the New York office for an interview. At the office, I signed an NDA and was taken to a conference room where I was told I would meet with various interviewers. I was separately interviewed by two employees who asked me similar questions about why I was interested in the job, my previous work\u2026\u00a0 experience, how I managed workplace obstacles, etc. After these interviews, I was given two emails to copy edit.Neither of the interviews went badly, but they didn't go great, and after the copy test, the recruiter who was coordinating the interview said he was checking to see if anybody else was available to interview, because it was campus season -- clearly an excuse while they deliberated over whether or not to proceed. After around 15 minutes, he came back and said that was it for the day and walked me out. The next week, I got an email saying they were moving forward with another candidate.",
+        "questions": [
+            "What would you change about your previous workplace? \u00a0 Answer Question",
+            "What was a mistake you made at a previous job, and how did you fix it? \u00a0 Answer Question",
+            "How do you prioritize tasks? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 16, 2019",
+        "role": "Recruiting Coordinator",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "8 weeks",
+        "details": "Strung me along for approx 8 weeks. Continued to tell me, \"the offer is coming\", \"just need someone to sign off on the offer\", etc. Came in for 1 half day interview and met with 5 different team members. Then was brought in 2 additional times and one of the times the interviewer cancelled on me while I was already onsite and then had a final phone interview. This company\u2026\u00a0 had zero regard for my time or schedule. Reference check was extensive.",
+        "questions": [
+            "All basic questions about my experience, working style, my background, etc. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Aug 9, 2019",
+        "role": "Prop Trader",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "-",
+        "length": "-",
+        "details": "Phone call following application. Had a call with one of the junior traders on the desk, lasted about 30 minutes, and was mainly a technical focus on my background.",
+        "questions": [
+            "Some probability questions, and enquiries about previous roles. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 20, 2019",
+        "role": "Executive Assistant",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "details": "Once I submitted my resume, I was emailed for a phone screen. After the phone screen would have been an in-person interview. I had such a terrible experience - I have an anxiety disorder and during the interview, I became a little anxious and tried to recover. It was clear that the interviewer a) did not care , and b) was completely judgmental in her tone with me during the\u2026\u00a0 process. It made me feel terrible and lessened my respect for this company.",
+        "questions": [
+            "How do I stay organized? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jul 22, 2019",
+        "role": "Security Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "Applied through a recruiter. Submitted information sheet outlining experience, including specific to security and coding. Had a phone interview, approximately 45 minutes long. Combination of technical questions and going over resume.",
+        "questions": [
+            "What is the difference between Java and C++ \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Oct 9, 2019",
+        "role": "Rotational Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "-",
+        "details": "I applied on the official website, they scheduled a 30 minutes first-round phone interview with me. I got 3 technical questions, was not that hard. The interviewer also asked about the class project on my resume, mainly regarding optimal currency area.",
+        "questions": [
+            "asked about projects on my resume, get 3 questions, one regarding interest rate \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 4, 2014",
+        "role": "Financial Analyst/Trader",
+        "gotOffer": "No Offer",
+        "experience": "Difficult Interview",
+        "difficulty": "-",
+        "length": "-",
+        "details": "I was Asked some questions about my research. I also introduced my interest I. Summer intern. They give me a probability question, but I give the wrong answer. In the end, they asked me if I have questions about their company. I asked what kind of job for an intern.",
+        "questions": [
+            "The family has two chilDren. The person answered the phone is a boy, what is the prob the family has a girl? \u00a0 4 Answers"
+        ]
+    },
+    {
+        "date": "Aug 25, 2019",
+        "role": "Quant Trader",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "details": "I applied to work at D.E. Shaw using their online application. It was fairly straightforward and they contacted me relatively quickly with a phone screen. They asked mostly probability and mental math problems. They're one of the leading companies in the industry.",
+        "questions": [
+            "They just asked basic probability questions. \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Oct 15, 2019",
+        "role": "Quantitative Analyst and Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "details": "Had a phone screen, the interviewer was very rude and judgmental. Started with \"now we are gonna ask you some questions about languages. I know that it's not a good way, but it's my way.\" The questions that followed were ambiguous. He was also very ignorant, Incorrectly claimed that O(2**32) is more than O(n), when I pointed that out, he got pissed.",
+        "questions": [
+            "1. How does malloc work?2. What does compiler create for you in an empty class in C++?3. A file of n 32 bit ints, where n = 4*10**9, find a valid int that is not in the file. If n=10**6, would you use the same algorithm? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 15, 2014",
+        "role": "Associate",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "2+ months",
+        "details": "The interview process involved 8 interviews, each of which were thirty to forty minutes in length. These were conducted over a two day period. In addition, I was once interviewed over the phone and one of my references was called. I found my interviewers to be courteous, fair, smart and generally enjoyable to speak with.",
+        "questions": [
+            "I was asked a few \"brain-teaser\"type of questions. These were the most difficult. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Dec 5, 2018",
+        "role": "Intern",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "Cv, cover letter and motivational questions on the website. Than phone call, quite short, they were looking for an intern with more working experience and I did not fit their requirements.",
+        "questions": [
+            "why are you interested in the firm? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 7, 2018",
+        "role": "Intern",
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "details": "easy going, simple interview some basic brain teasers nothing hard easy to talk to interviewers conversation flowed well. nice office, really friendly people. made me do a case study too which i had to discuss with employees, case study wasnt hard and intellectual conversation regarding it.",
+        "questions": [
+            "walk me through your cv \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 19, 2012",
+        "role": "Senior Executive Assistant",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "details": "I had a half day interview (thus obliging me to take a half day of leave from work, with no flexibility on date or time) which was mainly by videoconference with New York. The interview process was surreal and extremely unprofessional - no one told me who I would be meeting and they only introduced themselves by their first names. At several times during the interviews, the interviewees answered mobile\u2026\u00a0 phone calls and wandered out of the meeting room to take the call in private. At the end, no one even told me that the process was finished and I had to let myself out! I got no feedback apart from that they liked me, and months on they are still dealing with multiple agencies, supposedly looking for a candidate.",
+        "questions": [
+            "Give an example of when you have used technology to make your job more efficient \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Dec 29, 2018",
+        "role": "Financial Associate",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "details": "Overall, It was a good process. But they preferred CFAs over others with that kind of skills. Overall questions were difficult and challenging. Mix of behavioural and technical questions were asked",
+        "questions": [
+            "NPV OR IRR which one is better \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Jun 17, 2012",
+        "role": "Financial Associate",
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "They hire from top engineering and non-engineering colleges. As far as campus hiring goes, they have written test (multiple choice questions etc), followed by GD and then 1:1 interview.",
+        "questions": [
+            "What is GNP? \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Feb 11, 2019",
+        "role": "Software Developer",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "details": "Coding test which included two coding question (allowed languages : c/c++/java and time limit: 45 mins) along with CV Shortlisting of candidates. Interviews was the next rount. (Two technical and one HR interview)",
+        "questions": [
+            "About the working of load balancers and apache servers. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Aug 10, 2012",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 days",
+        "details": "The written round was very difficult. I was given 1 hour time. It consisted of 20 questions each from Aptitude and Technical + 1 program. In the interview, they asked questions from all most all fields in Computer Science. Lot of questions were asked from Java Collections & Generics. Also regarding overloading, run time dynamic dispatch, how & when the bindings would be done, etc.Overall it was a challenging interview.\u2026\u00a0 The interviewers were very friendly. I missed out narrowly.",
+        "questions": [
+            "Questions regarding when the binding would be done for operator overloading & dynamic dispatch and output for certain code snippets based on this. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Dec 7, 2012",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "Long and tedious hiring process. FIrst of all a written objective test of C and aptitude. Then coding round 2 questions in 1 hour. Average Level. Interview is the toughest part. Very high difficulty level at our college",
+        "questions": [
+            "Least Common Ancestor in a tree \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Feb 23, 2011",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "It was a campus interview. The first step was a written test. It consisted of two parts - objective questions and a programming assignment . Objective questions section had C++ programming questions and aptitude / maths questions. The programming assignment had to be done on paper. The interview revolved around the questions asked in the written test.",
+        "questions": [
+            "Given a sequence consisting of letters and numbers, re-arrange the sequence so that the numbers come together first, while maintaining their initial order in the sequence (not allowed to use additional memory)e.g. Input : 12gh45fd3, Output : 12453ghfd \u00a0 4 Answers"
+        ]
+    },
+    {
+        "date": "Feb 1, 2011",
+        "role": "Software Developer",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "3 days",
+        "details": "What is the duration of a bond? Why is the exponential function important in finance? Describe your background... How is your C++? Describe your research.",
+        "questions": [
+            "why is the exponential function important in finance? \u00a0 3 Answers"
+        ]
+    },
+    {
+        "date": "May 24, 2018",
+        "role": "Software Development Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "Interviewers were very friendly and smart. They were giving clues and providing help to guide through the problem they have asked for. They first made me comfortable as i was quite nervous and they also provided a valuable feedback at the end of session.",
+        "questions": [
+            "diamond problem \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Dec 9, 2009",
+        "role": "Quant",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "it was actually my first phone interview EVER, so I was quite worried. the guy asked me three questions:first something easy on options. I didn't answer since had zero experience at that time.second was something easy on probability, involving Bayesian formula. I was too freaked at the time because of the first question. got a bit confused and didn't solve all of the parts (after I put down the phone,\u2026\u00a0 it was a 5 minute question, actually)third question was \"how to make a fair coin out of a biased one\". that's a very famous question which unfortunately I didn't know at that time. I tried coming up with something but with a questionable success. the guy didn't give me any hints at all, and so the interviewed was finished.that was a quick and obvious rejection, no questions asked.the interesting information is that one year later they don't even give me an opportunity to interview again -- now I'm in the system, and they rejected me immediately. the moral is -- if you're really interested in them, be sure you are ready before you interview. one lousy bad morning, and you get \"stupid\" on your tab.",
+        "questions": [
+            "build a fair coin from a biased one \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Apr 22, 2014",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "details": "Phone Interview. First ask general question about my current work. Why I want to move into finance world etc. They seem to show genuine interest in my current research. Afterwards was asked Statistical questions e.g. hypothesis testing. Followed by some general finance question. Took about 30 mins altogether. Pretty pleasant overall, although it is not easy to tell if you are doing well.",
+        "questions": [
+            "Nothing very unexpected. Although the finance question is bit open-ended. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jan 14, 2011",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "details": "I got a call from the recruiting manager about the phone interview, that was promptly set up in about 2 days. The call came punctually and lasted about half an hour. Be prepared to work out, if not find the answer, to average-difficulty puzzles related to probability and statistics.",
+        "questions": [
+            "You have many soccer teams, that will compete against each other in 5 rounds of elimination competitions until one team remains. You have 1000 dollars, how should you bet on each round of competition to ensure maximum profit? \u00a0 4 Answers"
+        ]
+    },
+    {
+        "date": "Feb 1, 2010",
+        "role": "Quantitative Analyst",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "details": "All technical questions. Asked questions ranging from simple combinatorial problems to difficult probability / random variables problems.",
+        "questions": [
+            "There are 10 open boxes containing 100 coins each. In 9 of these boxes the coins are made of gold, and in the other the coins are made of copper. You are given a large digital balance which can be used once only. Can you identify the box containing copper coins knowing the weight of both gold and copper coins? \u00a0 2 Answers"
+        ]
+    },
+    {
+        "date": "Jul 29, 2010",
+        "role": "Research",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1+ week",
+        "details": "I had an screening interview with for a quantitative position. It was about twenty minutes, half of it was HR and half of it was an algorithm question. I got into an interesting argument with the interviewer in which I was convinced that the answer I came up with not the best solution to the problem and and in which the interviewer was convinced it was.",
+        "questions": [
+            "Ten people are bidding on a stock at 90, while 100 people are offering to sell it at 91. What price is the next trade? \u00a0 6 Answers"
+        ]
+    },
+    {
+        "date": "Nov 1, 2009",
+        "role": "Member Information Technology",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "details": "The interviewers were really respectful, and made me feel comfortable the moment I entered the interview room. Mostly the questions were asked from Areas of interest Operating system, OOps , DBMS etc. Almost answered all their questions correctly. Then a few questions regarding my Final year project. Later they described their experience at Shaw.",
+        "questions": [
+            "Banker's Algorithm \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Mar 3, 2011",
+        "role": "Trader",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "Talked about betting in sport games and how to find arbitrage or maximize payoff.",
+        "questions": [
+            "For a 3 sets tennis game, would you bet on it finishing in 2 sets or 3 sets? \u00a0 13 Answers"
+        ]
+    },
+    {
+        "date": "Jan 12, 2010",
+        "role": "Trading",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "details": "The interview was fairly quantitative based. It had a lot to do with statistics, probability, and reversion to the mean. The interviewers try to put some pressure on you to see how you react and sort through things. They were friendly but will try to expose your weaknesses.",
+        "questions": [
+            "How many stacks of dimes would it take to reach the top of a 10 story building if they were stacked one on top of the other? \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Feb 19, 2011",
+        "role": "Trading",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "details": "Interviewer seemed a bit uninterested or preoccupied. Standard behavioral questions, running through your resume and experiences. Asked about the market and a couple of brainteasers. Allowed time for questions at the end.",
+        "questions": [
+            "Give me a stock pick. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 2, 2012",
+        "role": "Systems Administrator",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "details": "-it had 1 written, 2 technical, 1 stress interview and 1HR round. (campus selection process)-written was very tough n very less time was given, negative marks for wrong marking.-somehow i got through the written round-first round for me was so shocking, completely non technical questions were asked in my panel, the other panel was asking only technical questions.- well i didnt clear my first round, my friend had cleared.-for him\u2026\u00a0 second round was in the other panel n technical stuff were asked, but was easy.-first round they asked me some shocking and unexpected questions.- stress interview was really stressful, they asked differences between a game n a sport..- seems easy, but some ppl come out of interview hall n burst out in tears. they got seriously offended.",
+        "questions": [
+            "what is DCIM in digital camera? \u00a0 1 Answer",
+            "http and https differences \u00a0 1 Answer",
+            "can u write on a pdf file??? \u00a0 2 Answers",
+            "where quartz crystals are used??? \u00a0 1 Answer",
+            "can u print a file that u r viewing using google docs??? \u00a0 1 Answer"
+        ]
+    },
+    {
+        "date": "Oct 29, 2012",
+        "role": "Member Technical",
+        "gotOffer": "Accepted Offer",
+        "experience": "Difficult Interview",
+        "difficulty": "-",
+        "length": "-",
+        "details": "Written test containing both aptitude and programming questions (C C++ and Java)Interview round 1.5 hours asking questions ranging from data structures to puzzles to general outlook.Candidate is hired with overall consensus of all panel members",
+        "questions": [
+            "None \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Feb 3, 2013",
+        "role": "Trading Intern",
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "details": "I applied by sending my resume in to their resume database. I was contacted by someone from HR, who arranged a phone interview. The interview was slated to take around half an hour but ended up taking closer to 45 minutes. The interviewer was a quantitative trader, who had been at the firm for 7 years.",
+        "questions": [
+            "Many brain teasers, how do I think the market is doing, what do I think will happen to the price of this asset, etc... \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Aug 18, 2012",
+        "role": "Quant Anal",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "details": "First had a phone interview. Wasn't very pleased with the person i talked to, sounded arrogant, indirectly bragging how smart he is. I had a feeling he was very happy when i had problem answering something and his voice would turn sad when i would answer right. Anyway, they immediately invited me to the on site one. I felt much more comfortable during the in person interview, people seemed great\u2026\u00a0 and helpful, very organized. I answered to all the questions i was asked with no to small hints. Felt quite confident. Questions were not too hard, about average. Rejection next day. Blah blah, not a good fit. I know it is d.e. shaw and they are very picky but i am just confused about what went wrong. Maybe it's because i don't look like a nerd . Maybe they are just scanning the job market.",
+        "questions": [
+            "Why do you want to work for us? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Apr 30, 2019",
+        "role": "Finance Research Associate",
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "details": "I had 3 rounds of interviews. 2 were technical and the last was hr. These were eliminative. The last was mainly to confirm if you were comfortable in relocating to Hyderabad. The technical interviews were mainly about finance and resume based and in-depth discussion on any topic mentioned in resume or which pops up during the interview. The process was based in college itself. The interview duration of the technical\u2026\u00a0 rounds was around 20 minutes each, with the hr one being around 10-15 minutes long. Overall good experience and not a stress interview.",
+        "questions": [
+            "Why this company and not the other company in which you have been placed? \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Jul 6, 2019",
+        "role": "Fundamental Research Summer",
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "First round interview over the phone. Second round interview in office - 3 separate interviews with one mainly technical and related to the job I would be doing, one based on a case study and one that was more motivational and also included a longer style maths question",
+        "questions": [
+            "As I had some experience teaching they asked me to explain a concept to them that was relevant to my degree \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Oct 9, 2019",
+        "role": "Generalist",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "details": "Process took 2+ months. Applied online then was contacted by HR after three weeks to schedule an interview. Phone interview was scheduled two weeks later with junior staff. This lasted about 30 minutes and the interviewer didn't really ask any questions. Just made me talk about my resume so I don't think they learnt much more than what was already written. Interviewer seemed disinterested and essentially relied on me to\u2026\u00a0 carry the interview. Contacted about 3 weeks after to say that they decided I was not a fit.",
+        "questions": [
+            "Walk me through your resume. \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Sep 8, 2019",
+        "role": "Human Resources Associate",
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "It was a 30 min long telephonic interview. None of the questions were relevant to the position. Instead all the questions were technical in nature. It was very difficult and was a bad experience. Also most of the questions were of very technical nature related to my internship which one is generally not aware of.",
+        "questions": [
+            "How do you explain hedge fund to a five year old \u00a0 Answer Question"
+        ]
+    },
+    {
+        "date": "Nov 8, 2019",
+        "role": "Quality Engineer",
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "details": "First round was tough and time consuming I didn't get enough time for all the questions that are mentioned in the online test. And it was done in hackerrank platform. Need detailed overview about the company is given during pre placement talk.",
+        "questions": [
+            "Interview questions were based on analytical \u00a0 Answer Question"
+        ]
+    }
+]

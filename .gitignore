@@ -1,0 +1,10 @@
+# files
+config.py
+# directories
+*.git
+*.ipynb_checkpoints
+archive/
+previous_versions/
+__pycache__/
+**.idea
+**.DS_Store
