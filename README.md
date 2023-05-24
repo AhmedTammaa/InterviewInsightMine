@@ -14,6 +14,7 @@ All of data science interviews from FAANG is scraped and saved into csv files.
 * Selenium
 * Beautiful Soup
 * Plotly (for Visualization)
+* Jupyter notebook
 ## Usage
 1. Go to the company you want to scrape its interview
 2. Filter the job interview
