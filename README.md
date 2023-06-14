@@ -1,13 +1,13 @@
-# Interview Inshight Mine
+# Interview Insight Mine
 
-This projects aims at collecting and analyzing interview questions from Glassdoor.
-The project is currently on it's first phase, focused on data-oriented roles.
+This project aims at collecting and analyzing interview questions from Glassdoor.
+The project is currently in its first phase, focused on data-oriented roles.
 * Data Science (Main focus)
 * Data Analysis 
 * Data Engineering
 
 ## Progress until now
-All data science interviews from FAANG are scraped and saved into CSV files. <i>(Old)</i>
+All data science interviews from FAANG are scraped and saved into CSV files. <i>(Old)</i><br> 
 Now we have 9000+ data-oriented from FAANG and non-FAANG companies so our data is more diverse. 
 
 ## Libraries and tools
