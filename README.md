@@ -27,7 +27,7 @@ All of data science interviews from FAANG is scraped and saved into csv files.
 9. Get your final csv file it will be named ```items_$company_name.csv```
 10. Enjoy analyzing your data (this repo will contain data analysis in the future)
 ## Future Plans (for now)
-The project is still on scarping phase, so far, 1000 data science interviews.
+The project is still on scarping phase, so far, 9000+ data science interviews.
 There will be a data analysis scripts and insights for the collected data. 
 ## Contact
 If you have any inquires or need anything relevant to the project feel free to email me.
