@@ -125,6 +125,55 @@ def get_data(driver, URL, startPage, endPage, data, refresh, idx):
 # enddef
 
 
+def get_data_for_job_search(driver, URL, startPage, endPage, data, refresh, idx):
+    print(endPage)
+    if (startPage > endPage):
+        return data
+    # endif
+    print("\nPage " + str(startPage) + " of " + str(endPage))
+    # currentURL = URL + "_IP" + str(startPage) + ".htm"
+    currentURL = _get_pagenated_url(URL, str(startPage), idx)
+    time.sleep(5)
+    # endif
+    if (refresh):
+        driver.get(currentURL)
+        print("Getting " + currentURL)
+
+    # endif
+    time.sleep(5)
+    HTML = driver.page_source
+    soup = BeautifulSoup(HTML, "html.parser")
+    nextpage_node = soup.find('button', attrs={'data-test': 'pagination-next'})
+    if nextpage_node is not None and nextpage_node.get('disabled'):
+        nextpage_node = None
+
+    reviews_container = soup.find(
+        'div', attrs={'data-test': 'results-container'})
+    reviews = str(reviews_container)
+    if (reviews):
+        # print (reviews)
+
+        data.append(reviews)
+        print(len(data))
+        print("Page " + str(startPage) + " scraped.")
+
+        if nextpage_node is None:
+            print('Reached last page: {}'.format(currentURL))
+            return data
+
+        if (startPage % 10 == 0):
+            print("\nTaking a breather for a few seconds ...")
+            time.sleep(12)
+        # endif
+        get_data(driver, URL, startPage + 1, endPage, data, True, idx)
+    else:
+        print("Waiting ... page still loading or CAPTCHA input required")
+        time.sleep(3)
+        get_data(driver, URL, startPage, endPage, data, False, idx)
+    # endif
+    return data
+
+
 def _extract_company_name_map_for_alias(company_alias):
     if company_alias == 'all':
         name_map = COMPANY_NAME_TO_BASE_URL
@@ -159,8 +208,9 @@ def main(company_names):
     for company_name, company_url in company_name_map.items():
         end_page = ceil(number_of_interviews/10)
         idx = find_idx(company_url)
-        data = get_data(driver, company_url, start_page,
-                        end_page, [], True, idx)
+        print(company_url)
+        data = get_data_for_job_search(driver, company_url, start_page,
+                                       end_page, [], True, idx)
         # data = get_data(driver, companyURL[:-4], 1, pages, [], True)
         file_name = 'items_' + str(company_name)
 
