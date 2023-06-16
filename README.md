@@ -10,6 +10,7 @@ The project is currently in its first phase, focused on data-oriented roles.
 All data science interviews from FAANG are scraped and saved into CSV files. <i>(Old)</i><br> 
 Now we have 9000+ data-oriented from FAANG and non-FAANG companies so our data is more diverse. 
 
+*NEW:* A new deep learning model is under development to tag the scrapped questions. Currently, there are 2000+ Tagged questions on the dataset. The new deep learning model is being developed in this repo <a href= "https://github.com/AhmedTammaa/InterviewQuestionTagging">   InterviewQuestionTagging </a>
 ## Libraries and tools
 * Python 3.10.1
 * Selenium
